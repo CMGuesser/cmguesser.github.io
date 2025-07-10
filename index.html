@@ -1,21 +1,84 @@
 <!DOCTYPE html>
 <html lang="pt">
-    <head>
-        <meta charset="UTF-8" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        
-        <title>CM Guesser</title>
 
-        <meta property="og:title" content="CM Guesser" />
-        <meta property="og:description" content="CM Guesser é um jogo gratuito e online que te desafia a descobrir a paragem da Carris Metropolitana através dos seus horários!" />
-        <meta property="og:image" content="https://cmguesser.github.io/logo.png" />
-        <meta property="og:url" content="https://cmguesser.github.io/" />
-        <meta property="og:type" content="website" />
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-        <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:title" content="CM Guesser" />
-        <meta name="twitter:description" content="CM Guesser é um jogo gratuito e online que te desafia a descobrir a paragem da Carris Metropolitana através dos seus horários!" />
-        <meta name="twitter:image" content="https://cmguesser.github.io/logo.png" />
-        <meta name="twitter:url" content="https://cmguesser.github.io/" />
-    </head>
+    <title>CM Guesser</title>
+
+    <meta name="description"
+        content="CM Guesser é um jogo gratuito e online que te desafia a descobrir a paragem da Carris Metropolitana através dos seus horários!">
+    <meta name="keywords" content="online, game, geography, geolocating, buses, carris metropolitana">
+    <meta name="author" content="Movies22">
+    <meta name="language" content="pt">
+
+    <meta property="og:title" content="CM Guesser" />
+    <meta property="og:description"
+        content="CM Guesser é um jogo gratuito e online que te desafia a descobrir a paragem da Carris Metropolitana através dos seus horários!" />
+    <meta property="og:image" content="https://cmguesser.github.io/logo.png" />
+    <meta property="og:url" content="https://cmguesser.github.io/" />
+    <meta property="og:type" content="website" />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="CM Guesser" />
+    <meta name="twitter:description"
+        content="CM Guesser é um jogo gratuito e online que te desafia a descobrir a paragem da Carris Metropolitana através dos seus horários!" />
+    <meta name="twitter:image" content="https://cmguesser.github.io/logo.png" />
+    <meta name="twitter:url" content="https://cmguesser.github.io/" />
+
+    <link rel="stylesheet" href="/style.css" />
+</head>
+
+<body>
+    <div class="navbar">
+        <div class="nav-links">
+            <p>CM Guesser</p>
+            <button id="login" class="login">Entrar</button>
+        </div>
+    </div>
+    <section class="landing">
+        <div class="main-landing">
+            <p>CM Guesser é um jogo onde tens de descobrir a paragem da Carris Metropolitana através dos seus horários!
+            </p>
+            <div class="button-row">
+                <button id="practice">Praticar</button>
+                <button id="lobby">Criar lobby</button>
+            </div>
+        </div>
+    </section>
+    <section class="leaderboard">
+        <h2>Ranking</h2>
+        <div class="player-leaderboard">
+            <table>
+                <thead>
+                    <tr>
+                        <th>#</th>
+                        <th>Nome</th>
+                        <th>Pontuação</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>1</td>
+                        <td>Exemplo</td>
+                        <td>10K</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </section>
+
+    <script>
+        window.addEventListener('scroll', () => {
+            const navbar = document.querySelector('.navbar');
+            if (window.scrollY > 10) {
+                navbar.classList.add('scrolled');
+            } else {
+                navbar.classList.remove('scrolled');
+            }
+        });
+    </script>
+</body>
+
 </html>
