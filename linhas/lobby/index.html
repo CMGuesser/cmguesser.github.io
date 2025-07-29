@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="pt">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>CM Guesser - Linhas</title>
+
+    <meta name="description"
+        content="CM Guesser é um jogo gratuito e online que te desafia a descobrir a paragem da Carris Metropolitana através dos seus horários!">
+    <meta name="keywords" content="online, game, geography, geolocating, buses, carris metropolitana">
+    <meta name="author" content="Movies22">
+    <meta name="language" content="pt">
+
+    <meta property="og:title" content="CM Guesser" />
+    <meta property="og:description"
+        content="CM Guesser é um jogo gratuito e online que te desafia a descobrir a paragem da Carris Metropolitana através dos seus horários!" />
+    <meta property="og:image" content="https://cmguesser.github.io/logo.png" />
+    <meta property="og:url" content="https://cmguesser.github.io/" />
+    <meta property="og:type" content="website" />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="CM Guesser" />
+    <meta name="twitter:description"
+        content="CM Guesser é um jogo gratuito e online que te desafia a descobrir a paragem da Carris Metropolitana através dos seus horários!" />
+    <meta name="twitter:image" content="https://cmguesser.github.io/logo.png" />
+    <meta name="twitter:url" content="https://cmguesser.github.io/" />
+
+    <link rel="stylesheet" href="/style.css" />
+
+    <meta name="google-site-verification" content="TjfZ96_mIVC5Snu3KwmpZdacxO0KTi3C-5_bBn-a8fY" />
+</head>
+
+<body>
+    <div class="navbar">
+        <div class="nav-links">
+            <p>CM Guesser</p>
+        </div>
+    </div>
+    <section class="landing">
+        <div class="main-landing">
+            <p id="totalLines">0/0 linhas</p>
+            <div class="lineDiv">
+                <div id="line">1000</div>
+                <div class="submission">
+                    <input id="dest1" list="dests"></input>
+                    <select id="type">
+                        <option value="-"> - </option>
+                        <option value="circular"> | Circular </option>
+                        <option value="circular2"> | Circular via </option>
+                    </select>
+                    <input id="dest2" list="dests"></input>
+                </div>
+            </div>
+            <datalist id="dests">
+                
+            </datalist>
+
+            <datalist id="via">
+                
+            </datalist>
+            <div class="button-row">
+                <button id="skip">Pular</button>
+                <button id="next">Próximo</button>
+            </div>
+        </div>
+    </section>
+
+    <script>
+        fetch("/linhas/lines.json").then(r => r.json()).then(lines => {
+            let filters = new URLSearchParams(window.location.search).get("filters").replace("1M","M").split(",")
+            lines = lines.filter(a => filters.some(f => a.id.startsWith(f)))
+            
+            let destsList = document.getElementById("dests")
+
+            let viaList = document.getElementById("via")
+
+            let dests = []
+            let vias = []
+
+            lines.forEach(line => {
+                if(line.name.includes(" | Circular")) {
+                    let name = line.name.split(" | ")[0];
+                    if(!dests.includes(name)) dests.push(name)
+                    if(line.name.includes(" | Circular via ") && !vias.includes(line.name.split(" | Circular via ")[1])) vias.push(line.name.split(" | Circular via ")[1])
+                } else {
+                    let names = line.name.split(" - ")
+                    if(names[1].includes(" via ")) {
+                        names[1] = names[1].split(" via ")
+                        if(!vias.includes(names[1][1])) vias.push(names[1][1]);
+                        names[1] = names[1][0]
+                    }
+                    if(!dests.includes(names[0])) dests.push(names[0])
+                    if(!dests.includes(names[1])) dests.push(names[1])
+                }
+            })
+
+            dests.sort().forEach(d => {
+                let option = document.createElement("option")
+                option.value = d;
+                option.innerHTML = d;
+                destsList.appendChild(option)
+            })
+
+            vias.sort().forEach(d => {
+                let option = document.createElement("option")
+                option.value = d;
+                option.innerHTML = d;
+                viaList.appendChild(option)
+            })
+
+            let typeSel = document.getElementById("type");
+
+            let dest1 = document.getElementById("dest1")
+            let dest2 = document.getElementById("dest2")
+
+            let line = document.getElementById("line")
+
+            let totalLines = document.getElementById("totalLines")
+
+            let skip = document.getElementById("skip")
+
+            let next = document.getElementById("next")
+
+            let gameData = []
+
+            totalLines.innerHTML = lines.length + " linhas"
+
+            typeSel.onchange = () => {
+                if(typeSel.value === "circular") {
+                    dest2.disabled = true;
+                } else {
+                    dest2.disabled = false;
+                    if(typeSel.value === "circular2") {
+                        dest2.setAttribute("list","via")
+                    } else dest2.setAttribute("list","dests")
+                }
+            }
+
+            let lineSelected;
+
+            let skips = 0;
+
+            let corrects = 0;
+
+            skip.onclick = () => {
+                gameData.push({
+                    line: lineSelected.id,
+                    answer: lineSelected.name,
+                    received: null
+                })
+                skips += 1;
+                console.log(gameData)
+                totalLines.innerHTML = lines.length + " linhas"
+                genRandomLine()
+            }
+
+            next.onclick = () => {
+                let answer = lineSelected.name
+                
+                if(dest1.value !== "" && (dest2.value !== "" || dest2.disabled) && answer.includes(dest1.value) && answer.includes(dest2.value)) {
+                    alert("Resposta certa!")
+                    gameData.push({
+                        line: lineSelected.id,
+                        answer: lineSelected.name,
+                        received: dest1.value + (typeSel.value.replace("circular2"," | Circular via").replace("circular"," | Circular")) + dest2.value
+                    })
+                    corrects += 1;
+                    dest1.value = ""
+                    dest2.value = ""
+                    totalLines.innerHTML = lines.length + " linhas"
+                    genRandomLine()
+                } else {
+                    alert("Resposta Errada")
+                }
+            }
+
+            genRandomLine()
+
+            function genRandomLine() {
+                if(lines.length === 0) {
+                    alert("Parabéns! Concluiste o jogo. Acertaste " + corrects + " de " + (corrects + skips) + " respostas e passaste " + skips + " linhas à frente.")
+                    window.location.href = "/linhas/play"
+                    return;
+                }
+                lineSelected = lines[Math.floor(Math.random()*lines.length)]
+                lines = lines.filter(a => a.id !== lineSelected.id)
+                line.innerHTML = lineSelected.id
+                line.style.backgroundColor = lineSelected.color
+            }
+
+        })
+
+        
+    </script>
+</body>
+
+</html>

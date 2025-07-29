@@ -1,0 +1,3498 @@
+[
+    {
+        "id": "1001",
+        "name": "Alfragide (Estr Seminario) - Reboleira (Estação)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1002",
+        "name": "Reboleira (Estação) | Circular via Alfragide (Centro comercial ) e Amadora (Estação Sul)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1003",
+        "name": "Amadora (Estação Norte) - Amadora Este (Metro)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1004",
+        "name": "Amadora (Estação Norte) | Circular via Moinhos da Funcheira",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1005",
+        "name": "Amadora (Estação Norte) - UBBO",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1006",
+        "name": "Amadora (Estação Norte) - UBBO | Noturna",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1008",
+        "name": "Amadora Este (Metro) | Circular",
+        "color": "#3D85C6"
+    },
+    {
+        "id": "1009",
+        "name": "Amadora (Hospital) | Circular via Mina e Venteira",
+        "color": "#3D85C6"
+    },
+    {
+        "id": "1010",
+        "name": "Alfornelos (Metro) - Casal da Mira",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1011",
+        "name": "Brandoa (Largo) - Reboleira (Metro)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1012",
+        "name": "Alfornelos Metro | Circular via Brandoa",
+        "color": "#3D85C6"
+    },
+    {
+        "id": "1013",
+        "name": "Reboleira (Estação) - Urbanização Sky City via Casas do Lago",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1014",
+        "name": "Amadora (Cemitério) - Vila Chã via Casas do Lago",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1015",
+        "name": "Reboleira (Estação) | Circular via Damaia",
+        "color": "#3D85C6"
+    },
+    {
+        "id": "1101",
+        "name": "Alfragide (Centro Comercial) - Algés (Estação)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1103",
+        "name": "Algés (Estação) - Queijas (PSP)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1104",
+        "name": "Algés | Circular via Centro Histórico",
+        "color": "#3D85C6"
+    },
+    {
+        "id": "1105",
+        "name": "Algés (Estação) - Queluz Baixo (Centro Comercial)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1106",
+        "name": "Queluz Baixo (Centro Comercial) - Algés (Estação)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1107",
+        "name": "Algés (Estação) - Queluz Baixo via Queijas",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1108",
+        "name": "Algés - Carnaxide (Parque Suécia) via WTC",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1109",
+        "name": "Carnaxide | Circular via Outurela",
+        "color": "#3D85C6"
+    },
+    {
+        "id": "1110",
+        "name": "Carnaxide | Circular via Queijas",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1111",
+        "name": "Massamá-Barcarena (Estação Sul) - Barcarena (Fábrica Pólvora)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1113",
+        "name": "Algés (Estação) | Circular via Cruz Quebrada e Linda-a-Velha",
+        "color": "#3D85C6"
+    },
+    {
+        "id": "1114",
+        "name": "Algés (Estação) | Circular via Linda-a-Velha e Miraflores",
+        "color": "#3D85C6"
+    },
+    {
+        "id": "1115",
+        "name": "Caxias (Ped Italiana) - Lage (Centro)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1117",
+        "name": "Caxias (Qta Moura) - Lage (Centro)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1119",
+        "name": "Leceia (Rotunda) - Paço De Arcos (Estação Norte)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1120",
+        "name": "Oeiras (Estação Norte) - Paço De Arcos (Estação Norte)",
+        "color": "#3D85C6"
+    },
+    {
+        "id": "1121",
+        "name": "Oeiras | Circular via Piscina Oceânica",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1122",
+        "name": "Bº Joaquim Matias - Caxias (Ped Italiana)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1123",
+        "name": "Paço De Arcos (Estação Norte) - Porto Salvo (Lagoas Park)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1124",
+        "name": "Paço de Arcos | Circular",
+        "color": "#3D85C6"
+    },
+    {
+        "id": "1125",
+        "name": "Porto Salvo | Circular via Leião e Lage",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1201",
+        "name": "Terrugem (Escola) | Circular",
+        "color": "#3D85C6"
+    },
+    {
+        "id": "1204",
+        "name": "Alto do Forte (Centro Comercial) | Circular",
+        "color": "#3D85C6"
+    },
+    {
+        "id": "1205",
+        "name": "Algueirão-Mem Martins (Estação) - Mem Martins (Esc Secundária) via Hospital",
+        "color": "#3D85C6"
+    },
+    {
+        "id": "1206",
+        "name": "Algueirão-Mem Martins (Estação) - Portela de Sintra (Estação Norte) via Tribunal e Hospital",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1208",
+        "name": "Almargem Bispo (Cemitério) - Portela de Sintra (Estação Norte)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1209",
+        "name": "Bairro da Felosa - Mira Sintra (Mercado) via Cemitério",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1210",
+        "name": "Bairro Fitares - Mem Martins (Esc Secundária)",
+        "color": "#3D85C6"
+    },
+    {
+        "id": "1211",
+        "name": "Belas (Samaritana) - Agualva-Cacém (Estação)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1212",
+        "name": "Venda Seca - Queluz (Estação)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1213",
+        "name": "Bº Joaquim Fontes (Centro Comercial) - Agualva-Cacém (Estação)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1215",
+        "name": "Agualva-Cacém (Estação) | Circular via Encosta S. Marcos",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1216",
+        "name": "Tercena (Estação) | Circular via São Marcos Taguspark (Novo Banco) e Casal do Cotão",
+        "color": "#3D85C6"
+    },
+    {
+        "id": "1217",
+        "name": "Agualva-Cacém (Estação) - Massamá (Urbanização Norte)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1218",
+        "name": "Agualva-Cacém (Estação) - Mira Sintra (Mercado) via Av Bomb Vol",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1219",
+        "name": "Agualva-Cacém (Estação) - Mira Sintra (Mercado) via Av Santa Maria",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1220",
+        "name": "Agualva-Cacém (Estação) | Circular via S. Marcos (Largo)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1221",
+        "name": "Agualva-Cacém (Estação) | Circular via Lopas",
+        "color": "#3D85C6"
+    },
+    {
+        "id": "1222",
+        "name": "Agualva-Cacém (Estação) | Circular via Bairro Joaquim Fontes",
+        "color": "#3D85C6"
+    },
+    {
+        "id": "1223",
+        "name": "Agualva-Cacém (Estação) - Portela Sintra (Estação Sul)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1224",
+        "name": "Belas Clube Campo - Monte Abraão (Estação) via Carregueira (Estabelecimento Prisional)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1225",
+        "name": "Agualva-Cacém (Estação) | Circular Via Enc. S. Marcos Univ Católica e Bela Vista",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1226",
+        "name": "Massamá (Casal Olival) - Queluz - Belas (Estação)",
+        "color": "#3D85C6"
+    },
+    {
+        "id": "1228",
+        "name": "Massamá-Barcarena (Estação Norte) | Circular via Belas",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1229",
+        "name": "Massamá-Barcarena (Estação Norte) | Circular via Quinta das Flores",
+        "color": "#3D85C6"
+    },
+    {
+        "id": "1230",
+        "name": "Monte Abraão (Estação) | Circular",
+        "color": "#3D85C6"
+    },
+    {
+        "id": "1231",
+        "name": "Mem Martins (Esc. Ferreira Castro) - Coutinho Afonso",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1232",
+        "name": "Rio de Mouro (Estação Sul) | Circular via Mem Martins",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1233",
+        "name": "Agualva-Cacém (Estação) | Circular via Bela Vista Univ Católica e Enc. S. Marcos",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1234",
+        "name": "São Pedro Sintra (Chão Meninos) - Mira Sintra (Junta Freguesia)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1235",
+        "name": "Covas Ferro - Mercês (Estação Norte)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1236",
+        "name": "Alto do Forte (Centro Comercial) - Queluz - Belas (Estação)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1240",
+        "name": "Negrais (Soc Recreativa) - Portela Sintra (Estação Norte)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1241",
+        "name": "Almoçageme (Mercado) - Hospital de Sintra",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1242",
+        "name": "Casais Cabrela (Largo) - Almoçageme (Mercado)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1244",
+        "name": "Casal de Cambra (Escola) - Portela de Sintra (Estação Norte) via Hospital",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1245",
+        "name": "Catribana (Largo) - Portela Sintra (Estação Norte)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1247",
+        "name": "Fontanelas - Portela de Sintra (Estação) via Janas",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1248",
+        "name": "Portela Sintra (Estação Norte) - Praia Maçãs (Mercado)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1249",
+        "name": "Portela Sintra (Estação Norte) - Magoito (Praia)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1250",
+        "name": "Portela Sintra (Estação Norte) - Praia Grande",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1251",
+        "name": "Portela de Sintra (Estação Sul) - Rio De Mouro (Estação Sul)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1252",
+        "name": "Portela Sintra (Estação Sul) | Circular via Ranholas",
+        "color": "#3D85C6"
+    },
+    {
+        "id": "1253",
+        "name": "Sintra (Estação) | Circular via Cabo da Roca",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1254",
+        "name": "Portela Sintra (Estação Norte) - Magoito (Praia)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1255",
+        "name": "Rebanque - Portela Sintra (Estação Norte)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1501",
+        "name": "Reboleira (Estação) | Circular via Alfragide (Zona Industrial e Centro comercial)",
+        "color": "#3D85C6"
+    },
+    {
+        "id": "1502",
+        "name": "Algés (Estação) - Amadora (Estação Sul) via Linda-a-Velha",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1503",
+        "name": "Algés (Estação) - Bº Zambujal via Miraflores",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1504",
+        "name": "Algés (Estação) - Bº Zambujal",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1506",
+        "name": "Amadora (Hospital) | Circular via Alfragide e Damaia",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1507",
+        "name": "Caxias (Estação) - Reboleira (Metro)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1508",
+        "name": "Almargem Bispo (Centro Saúde) - Amadora Este (Metro)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1509",
+        "name": "Amadora (Hospital) - Casal de Cambra (C. Saúde)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1510",
+        "name": "Amadora (Hospital) - Damaia De Baixo (Pavilhão Desportivo)",
+        "color": "#3D85C6"
+    },
+    {
+        "id": "1511",
+        "name": "Monte Abraão (Estação) | Circular via Amadora (Hospital)",
+        "color": "#3D85C6"
+    },
+    {
+        "id": "1512",
+        "name": "Amadora (Hospital) - Montelavar (Largo)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1513",
+        "name": "Amadora (Hospital) | Circular",
+        "color": "#3D85C6"
+    },
+    {
+        "id": "1514",
+        "name": "Amadora (Hospital) | Circular via Alfornelos",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1515",
+        "name": "Amadora Este (Metro) - Casal de Cambra via Queluz-Belas (Estação)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1516",
+        "name": "Casal Cambra (Igreja) - Monte Abraão (Estação)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1517",
+        "name": "Casal de Cambra (C Rebentão) - Reboleira (Metro)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1518",
+        "name": "Monte Abraão - Reboleira (Metro)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1519",
+        "name": "Queluz (Palácio) - Serra Silveira",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1520",
+        "name": "Algés (Estação) - Agualva-Cacém (Estação)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1521",
+        "name": "Algés (Estação) - Agualva-Cacém (Estação) via A5",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1522",
+        "name": "Algés (Estação) - Monte Abraão (Estação)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1523",
+        "name": "Agualva-Cacém (Estação) - Oeiras (Estação)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1524",
+        "name": "Tercena (Estação) | Circular via Casal do Cotão e Taguspark",
+        "color": "#3D85C6"
+    },
+    {
+        "id": "1525",
+        "name": "Caxias (Est. Prisional) - Monte Abraão (Estação)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1527",
+        "name": "Cruz Quebrada (Estação) - Queluz-Belas (Estação)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1528",
+        "name": "Linda-a-Velha (Esc Secundária) - Queluz-Belas (Estação)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1529",
+        "name": "Oeiras (Estação Norte) - Oeiras Golf Residence via Taguspark (Novo Banco)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1530",
+        "name": "Oeiras (Estação Norte) - Queluz (4 Caminhos)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1531",
+        "name": "Paço De Arcos (Estação Norte) - São Marcos (Rotunda)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1601",
+        "name": "Amadora Este (Metro) - Carcavelos (Praia)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1603",
+        "name": "Amadora (Estação Norte) - Caneças (Largo Vieira Caldas)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1604",
+        "name": "Carcavelos (Estação) | Circular via Oeiras Parque",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1605",
+        "name": "Carnaxide (Av. João Paulo II) - Carcavelos (Nova SBE) via A5",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1606",
+        "name": "Carnaxide (Av. João Paulo II) - Carcavelos (Nova SBE) via Terrugem",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1607",
+        "name": "Oeiras Parque - Parede (Terminal)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1608",
+        "name": "Oeiras (Estação Norte) - Taguspark (Rotunda Sef)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1610",
+        "name": "Paço De Arcos (Estação Norte) - Talaíde (Campo Futebol)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1611",
+        "name": "Paço de Arcos (Estação Norte) - Talaíde (Campo Futebol) via Vila Fria",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1612",
+        "name": "Agualva-Cacém (Estação) - Carcavelos (Estação) via Taguspark (Novo Banco)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1613",
+        "name": "Agualva-Cacém (Estação) - Oeiras (Estação Sul) via Trajouce",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1614",
+        "name": "Carcavelos (Estação) - Portela Sintra (Estação Sul)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1615",
+        "name": "Carcavelos (Estação) - Rio De Mouro (Estação Sul)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1616",
+        "name": "Paço de Arcos (Estação Norte) - Taguspark (Rotunda SEF) via Bº Navegadores",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1617",
+        "name": "Paço De Arcos (Estação Norte) - Talaíde (Igreja)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1621",
+        "name": "Cascais (Terminal) - Portela de Sintra (Estação Norte) | Expresso",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1622",
+        "name": "Agualva-Cacém (Estação) - Carcavelos (Estação) via Trajouce",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1623",
+        "name": "Cascais (Terminal) - Portela Sintra (Estação Sul)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1624",
+        "name": "Cascais (Terminal) - Portela Sintra (Estação Norte) via Azóia e Almoçageme",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1625",
+        "name": "Cascais (Terminal) - Rio De Mouro (Estação Sul)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1626",
+        "name": "CascaiShopping (Terminal) - Portela Sintra (Estação Sul)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1627",
+        "name": "CascaiShopping (Terminal) - Rio De Mouro (Estação Sul)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1628",
+        "name": "Estoril (Estação) - Rio De Mouro (Estação Sul) via Amoreira",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1629",
+        "name": "Estoril (Estação) - Portela Sintra (Estação Sul)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1630",
+        "name": "Estoril (Estação) - Portela Sintra (Estação Sul) via Monte Estoril",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1631",
+        "name": "Estoril (Estação) - Rio De Mouro (Estação Sul)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1632",
+        "name": "Carvalhal (Largo) - Portela Sintra (Estação Norte)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1633",
+        "name": "Ericeira (Terminal) - Portela de Sintra (Estação Norte)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1634",
+        "name": "Fonte Da Aranha - Montelavar (Largo)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1635",
+        "name": "Almargem Bispo (Largo) - Caneças (Largo Vieira Caldas)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1636",
+        "name": "Caneças (B Maria Teresa) - D Maria (Igreja)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1637",
+        "name": "Casal Cambra - Vale Lobos (Largo)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1638",
+        "name": "Oeiras (Estação Norte) - Parede (Terminal)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1701",
+        "name": "Algés (Estação) - Colégio Militar (Metro)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1703",
+        "name": "Amadora (Estação Norte) - Pontinha (Metro)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1704",
+        "name": "Marquês Pombal (Metro) - Amadora (Hospital)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1706",
+        "name": "Colégio Militar (Metro) - UBBO via Brandoa",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1707",
+        "name": "Colégio Militar (Metro) - Casal Mira (UBBO) via Amadora Este (Metro)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1708",
+        "name": "Casal Mira (Centro Comercial) | Circular",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1709",
+        "name": "Caneças (Largo Jardim) - Colégio Militar (Metro)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1710",
+        "name": "Caneças (Qtª São Carlos) - Pontinha (Metro)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1711",
+        "name": "Caneças (Esc. Secundária) - Pontinha (Metro)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1712",
+        "name": "Algés (Estação) - Amadora (Estação Sul)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1713",
+        "name": "Algés (Estação) - Amadora Este (Metro)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1714",
+        "name": "Amadora (Estação Sul) - Belém (Estação)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1715",
+        "name": "Belém (Estação) - Mira Sintra (Mercado)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1716",
+        "name": "Idanha (Urb Campinas) - Marquês Pombal (Metro)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1717",
+        "name": "Colégio Militar (Metro) - Massamá-Barcarena (Estação Sul) via Amadora Este (Metro)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1718",
+        "name": "Grajal - Belém (Estação)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1719",
+        "name": "Casal de Cambra - Colégio Militar (Metro)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1720",
+        "name": "Casal de Cambra - Colégio Militar (Metro) via Queluz-Belas (Estação)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1721",
+        "name": "Colégio Militar (Metro) - Massamá (Casal Olival) via Amadora Este (Metro)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1722",
+        "name": "Alfragide (Centro Comercial) - Hospital São Francisco Xavier",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1723",
+        "name": "Carnaxide (Av Portugal) - Marquês Pombal (Metro)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1724",
+        "name": "Linda-a-Velha - Marquês Pombal (Metro) via Alto Sta Catarina",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1725",
+        "name": "Marquês Pombal (Metro) - Oeiras (Estação Norte)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1726",
+        "name": "Marquês Pombal (Metro) - Queijas (PSP)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1728",
+        "name": "Marquês Pombal (Metro) - Queijas (PSP) via Alto Sta Catarina",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1729",
+        "name": "Marquês Pombal (Metro) - Queluz Baixo (Centro Comercial)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1730",
+        "name": "Marquês Pombal (Metro) - Queluz Baixo (Centro Comercial) via Linda-a-Velha",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1731",
+        "name": "Agualva-Cacém (Estação) - Hospital São Francisco Xavier",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1733",
+        "name": "Marquês Pombal (Metro) - São Marcos via Queijas (Rotunda) e Taguspark",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1740",
+        "name": "Marquês de Pombal (Metro) - Rio de Mouro (Estação Norte)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1741",
+        "name": "Marquês de Pombal (Metro) - Queluz de Baixo (Centro Comercial) via Algés",
+        "color": "#C61D23"
+    },
+    {
+        "id": "1998",
+        "name": "Cascais - Oeiras",
+        "color": "#2A9057"
+    },
+    {
+        "id": "1999",
+        "name": "Algés - Cais do Sodré",
+        "color": "#2A9057"
+    },
+    {
+        "id": "2002",
+        "name": "A-dos-Cãos - Loures (Centro Saúde)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2003",
+        "name": "Guerreiros - Guerreiros",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2004",
+        "name": "Bairro de Santa Maria - Loures (Centro Saúde)",
+        "color": "#3D85C6"
+    },
+    {
+        "id": "2006",
+        "name": "Bucelas - Vila de Rei | Circular via Bemposta",
+        "color": "#3D85C6"
+    },
+    {
+        "id": "2008",
+        "name": "Bucelas - Mato da Cruz | Circular via Solcasa",
+        "color": "#3D85C6"
+    },
+    {
+        "id": "2011",
+        "name": "Cabeço de Montachique - Loures (C Saúde) via Bairro Novo de Palhais e Murteira",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2014",
+        "name": "Frielas - Torres da Bela Vista via Sto António Cavaleiros",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2016",
+        "name": "Guerreiros - Hospital Beatriz Ângelo",
+        "color": "#3D85C6"
+    },
+    {
+        "id": "2017",
+        "name": "Guerreiros - Loures Loures (Centro Saúde)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2020",
+        "name": "Sto. António Cavaleiros | Circular via Paradela",
+        "color": "#3D85C6"
+    },
+    {
+        "id": "2021",
+        "name": "Sto. Antão Tojal e Infantado | Circular",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2024",
+        "name": "Sto. António Cavaleiros | Circular via Cidade Nova",
+        "color": "#3D85C6"
+    },
+    {
+        "id": "2026",
+        "name": "Loures | Circular via Rua República",
+        "color": "#3D85C6"
+    },
+    {
+        "id": "2028",
+        "name": "Loures | Circular via Sto. António Cavaleiros",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2029",
+        "name": "Moscavide (Metro) - Moscavide (Metro) via Portela",
+        "color": "#3D85C6"
+    },
+    {
+        "id": "2030",
+        "name": "Sacavém (C.Saúde) - Sacavém (Centro Saúde) via Fetais",
+        "color": "#3D85C6"
+    },
+    {
+        "id": "2031",
+        "name": "Sacavém (C.Saúde) - Sacavém (Centro Saúde)",
+        "color": "#3D85C6"
+    },
+    {
+        "id": "2032",
+        "name": "Sacavém (Est) - Santa Iria Azoia (Estação)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2034",
+        "name": "S.Iria (Apeadeiro) - Sta Iria Azoia (Est) circular",
+        "color": "#3D85C6"
+    },
+    {
+        "id": "2035",
+        "name": "Tojal Jardim - Sto Antao Tojal via MARL",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2036",
+        "name": "Sacavém (Av Comun.)-Sacavém (Av Comun.)",
+        "color": "#3D85C6"
+    },
+    {
+        "id": "2037",
+        "name": "Zambujal e Infantado | Circular",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2038",
+        "name": "Bucelas - Loures | Circular via Ribas",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2039",
+        "name": "Bucelas - Zambujal via Sete Casas e Loures",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2040",
+        "name": "Loures | Circular via Urmeira",
+        "color": "#3D85C6"
+    },
+    {
+        "id": "2103",
+        "name": "Antas - Mafra (Parque Desportivo)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2104",
+        "name": "Avessada - Malveira (Terminal)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2105",
+        "name": "Barreiralva - Mafra (Parque Desportivo)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2106",
+        "name": "Bocal - Mafra (Parque Desportivo)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2110",
+        "name": "Carvalhal - Mafra (Parque Desportivo) via Mata Grande e Valverde",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2113",
+        "name": "Ericeira (Terminal) - Casais de São Lourenço via Feiteira",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2116",
+        "name": "Encarnação - Mafra (Parque Desportivo)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2117",
+        "name": "Encarnação (Cemitério) - Ericeira (Terminal) via Ribamar",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2118",
+        "name": "Encarnação (Cemitério) - Ericeira (Terminal) via Santo Isidoro e Monte Godel",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2120",
+        "name": "Enxara do Bispo - Ericeira (Terminal)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2121",
+        "name": "Enxara do Bispo - Gradil",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2122",
+        "name": "Livramento - Enxara do Bispo",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2123",
+        "name": "Praia da Foz do Lizandro - Praia de Ribeira d'Ilhas",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2124",
+        "name": "Urbana da Ericeira 1 | Circular via Colinas Atlantico",
+        "color": "#3D85C6"
+    },
+    {
+        "id": "2125",
+        "name": "Urbana da Ericeira 2 | Circular via Outeirinho e Fonte Boa da Brincosa",
+        "color": "#3D85C6"
+    },
+    {
+        "id": "2126",
+        "name": "Ericeira | Circular",
+        "color": "#3D85C6"
+    },
+    {
+        "id": "2132",
+        "name": "Ericeira (Terminal) - Mafra (Terminal)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2133",
+        "name": "Ericeira (Terminal) - Mafra (Palácio) via Carvoeira Montesouros e Av. Portugal",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2134",
+        "name": "Ervideira - Gradil",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2135",
+        "name": "Igreja Nova - Venda do Pinheiro (Núcleo Empresarial sul)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2136",
+        "name": "Jerumelo - Mafra (Terminal)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2141",
+        "name": "Mafra (Terminal) - Ribamar",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2142",
+        "name": "Mafra (Almada) | Circular",
+        "color": "#3D85C6"
+    },
+    {
+        "id": "2143",
+        "name": "Mafra (Palácio) - Zambujal",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2145",
+        "name": "Mafra | Circular via Sobral da Abelheira",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2146",
+        "name": "Malveira (Centro Saúde) - Milharado (CASO) | Circular",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2202",
+        "name": "Arroja - Sr. Roubado (Metro)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2203",
+        "name": "Arroja | Circular via Odivelas (Metro)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2206",
+        "name": "Caneças (Esc. Secundária) - Sr. Roubado (Metro) via Patameiras (C.Comercial)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2207",
+        "name": "Caneças (Esc. Secundária) - Odivelas (Metro)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2208",
+        "name": "Caneças (Jardim) - Vale Nogueira",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2209",
+        "name": "Caneças (Esc. Sec.) - Sr. Roubado (Metro) via Casal do Bispo",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2212",
+        "name": "Odivelas (C. Comercial) | Circular",
+        "color": "#3D85C6"
+    },
+    {
+        "id": "2213",
+        "name": "Odivelas (Metro) - Famões | Circular",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2215",
+        "name": "Odivelas (Metro) - Ramada (Bons Dias)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2217",
+        "name": "Odivelas (Metro) | Circular via Casal Chapim",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2218",
+        "name": "Odivelas (Metro) | Circular via Colinas do Cruzeiro",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2219",
+        "name": "Odivelas (Metro) | Circular via Póvoa de Santo Adrião",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2220",
+        "name": "Olival Basto | Circular via Póvoa de Santo Adrião e Odivelas (Metro)",
+        "color": "#3D85C6"
+    },
+    {
+        "id": "2221",
+        "name": "Póvoa de Santo Adrião (Parque Urbano) - Sr. Roubado (Metro)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2222",
+        "name": "Ramada | Circular",
+        "color": "#3D85C6"
+    },
+    {
+        "id": "2223",
+        "name": "Sr. Roubado (Metro) | Circular via Casal Novo",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2224",
+        "name": "Arroja | Circular via Patameiras (C. Comercial)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2225",
+        "name": "Odivelas (Metro) | Circular via Arroja",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2301",
+        "name": "Alverca (Estação) | Circular",
+        "color": "#3D85C6"
+    },
+    {
+        "id": "2303",
+        "name": "Alverca (Est) - Arcena",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2306",
+        "name": "Alverca (Est) - Vila Franca Xira",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2307",
+        "name": "Arcena - Vila Franca Xira",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2308",
+        "name": "Alhandra | Circular",
+        "color": "#3D85C6"
+    },
+    {
+        "id": "2309",
+        "name": "Vila Franca Xira - Vila Franca Xira",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2310",
+        "name": "Bom Retiro - Carregado (Estação)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2315",
+        "name": "Castanheira(Est) - Castanheira(Est) circ",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2317",
+        "name": "Fonte Santa - Póvoa Santa Iria (Estação)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2318",
+        "name": "P.S.I.(Est) - P. Sta Iria (Est) via F. Casa",
+        "color": "#3D85C6"
+    },
+    {
+        "id": "2325",
+        "name": "P.S.I.(Est) - Verdelha Ruivo",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2327",
+        "name": "P.S.I.(Est) - P. S. Iria (Est) via Vialonga",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2328",
+        "name": "QªPied - Vila Franca Xira",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2329",
+        "name": "Alhandra(Esc) - Alverca(Est)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2331",
+        "name": "Torre Cima i Capela - Hospital VFX",
+        "color": "#3D85C6"
+    },
+    {
+        "id": "2333",
+        "name": "V.Franca Xira - Hospital VFX via N1",
+        "color": "#3D85C6"
+    },
+    {
+        "id": "2335",
+        "name": "P.S.Iria (Praça República) - Póvoa Sta Iria via Bragadas",
+        "color": "#3D85C6"
+    },
+    {
+        "id": "2336",
+        "name": "P.S.Iria(Rep)_P.S.Iria(Rep)",
+        "color": "#3D85C6"
+    },
+    {
+        "id": "2337",
+        "name": "Vila Franca de Xira (Estação) Circular",
+        "color": "#3D85C6"
+    },
+    {
+        "id": "2501",
+        "name": "Bocal - Malveira (Terminal)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2502",
+        "name": "Bucelas - Malveira",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2504",
+        "name": "Carrascal - Ponte de Lousa",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2505",
+        "name": "Loures (C. Comercial) - Malveira (Terminal)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2506",
+        "name": "Milharado (CASO) - Ponte de Lousa",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2511",
+        "name": "Caneças (Esc. Secundária) - Loures (C. Comercial C. Loures) via Bairro CTT",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2513",
+        "name": "Caneças (Esc. Secundária) - Loures",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2515",
+        "name": "Odivelas (Metro) | Circular via Bairro da Paradela",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2516",
+        "name": "Sr. Roubado (Metro) | Circular via Bairro da Paradela",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2517",
+        "name": "Odivelas (Metro) - Hospital Beatriz Ângelo | Circular",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2518",
+        "name": "Frielas - Sr. Roubado (Metro) via Zona Comercial",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2522",
+        "name": "Jardim da Amoreira - Sr. Roubado (Metro) via Montemor",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2523",
+        "name": "Jardim da Amoreira - Odivelas (Metro) via Montemor",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2524",
+        "name": "Odivelas (Metro) | Circular via Hospital Beatriz Ângelo",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2525",
+        "name": "Santo Antão do Tojal - Sr. Roubado (Metro)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2526",
+        "name": "Loures (C. Comercial) - Odivelas (Metro) via Cidade Nova",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2530",
+        "name": "Alverca (Estação) - Bucelas via Malvarosa",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2532",
+        "name": "Alverca(Est) - Loures",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2533",
+        "name": "Alverca(Est) - Sto Antao Tojal via C. Areias",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2534",
+        "name": "Loures (Supermercado) - Santa Iria Azoia",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2535",
+        "name": "Loures - Vila Franca de Xira",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2536",
+        "name": "Mojões - Bairro Monjoes via Póvoa",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2537",
+        "name": "P.S.I.(Est) - Santo Antão Tojal",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2538",
+        "name": "P.S.I.(Est) - Santo Antao Tojal via Alpriate",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2539",
+        "name": "Sacavém (Est) - Sta Iria (Est) via P. Azoia",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2540",
+        "name": "S. Iria (Apeadeiro) - MARL",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2601",
+        "name": "Loures (C. Comercial) - Reboleira (Estação)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2605",
+        "name": "Agualva-Cacém (Estação) - Loures",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2610",
+        "name": "Odivelas (Metro) - UBBO",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2611",
+        "name": "Sto António Cavaleiros - UBBO",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2620",
+        "name": "Covas de Ferro - Loures (Centro Saúde)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2621",
+        "name": "Covas de Ferro - Pinheiro de Loures",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2625",
+        "name": "Mafra (Terminal)- São João das Lampas",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2626",
+        "name": "Mafra (Parque Desportivo) - Portela de Sintra (Estação)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2627",
+        "name": "Mafra (Parque Desportivo) - Ribeira dos Tostões",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2631",
+        "name": "Caneças (Esc. Secundária) - Odivelas (Metro) via Qta das Pretas",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2632",
+        "name": "Caneças (Esc. Secundária) - Odivelas (Metro) via Bairro Sol Nascente",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2650",
+        "name": "Cidade Nova - Costa da Caparica",
+        "color": "#0C807E"
+    },
+    {
+        "id": "2651",
+        "name": "Bucelas - Costa da Caparica (Terminal)",
+        "color": "#0C807E"
+    },
+    {
+        "id": "2652",
+        "name": "C. Caparica - Forte Casa (Largo)",
+        "color": "#0C807E"
+    },
+    {
+        "id": "2653",
+        "name": "Caneças escola secundaria - Costa da Caparica  p/Jardim da Radial",
+        "color": "#0C807E"
+    },
+    {
+        "id": "2706",
+        "name": "Bucelas - Lisboa (C. Grande) via Infantado",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2708",
+        "name": "C.Aguieira - Estação Oriente",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2710",
+        "name": "A. Moinho - Campo Grande",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2711",
+        "name": "Charneca - Estação Oriente",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2713",
+        "name": "Campo Grande - Campo Grande via Charneca",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2714",
+        "name": "Campo Grande - Sacavém (Estação)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2715",
+        "name": "Lisboa (C. Grande) - Sto António Cavaleiros via IC22 e Igreja",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2716",
+        "name": "Lisboa (C. Grande) - Sto António Cavaleiros via IC22 e Cidade Nova",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2717",
+        "name": "Lisboa (C. Grande) - Loures (C. Comercial) via IC22 e Torres da Bela Vista",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2718",
+        "name": "Infantado - Lisboa (C. Grande)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2719",
+        "name": "Fanhões - Lisboa (C.Grande) v/ Sete Casas e A8 Frielas",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2720",
+        "name": "Lisboa (C. Grande) - Loures (Bairro Urmei)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2722",
+        "name": "Areeiro - Via Rara",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2723",
+        "name": "Lisboa (C. Grande) - Zambujal",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2724",
+        "name": "Estação Oriente - Loures via Tunel Grilo e Santo António dos Cavaleiros",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2725",
+        "name": "Estação Oriente - Loures (zona comercial)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2726",
+        "name": "Estação Oriente - Loures via Camarate",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2727",
+        "name": "Estação Oriente - Loures via Unhos",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2728",
+        "name": "Bairro Covina - Estação Oriente",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2729",
+        "name": "Estação Oriente - Portela Azóia",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2730",
+        "name": "Estação Oriente - Santa Iria Azóia",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2731",
+        "name": "Estação Oriente - Estação Oriente via Portela",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2733",
+        "name": "Loures (Supermercado) - Moscavide (Metro)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2734",
+        "name": "Prior Velho - Sacavém (Estação)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2735",
+        "name": "Sacavém (Praça República) - Sacavém via Prior Velho",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2736",
+        "name": "Campo Grande - Campo Grande via Sacavém",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2740",
+        "name": "Ericeira (Terminal) - Lisboa (C. Grande) via A8",
+        "color": "#FDB71A"
+    },
+    {
+        "id": "2741",
+        "name": "Ericeira (Terminal) - Lisboa (C. Grande) via Freixeira e A8",
+        "color": "#FDB71A"
+    },
+    {
+        "id": "2742",
+        "name": "Lisboa (C. Grande) - Mafra (Terminal)",
+        "color": "#FDB71A"
+    },
+    {
+        "id": "2743",
+        "name": "Lisboa (C. Grande) - Póvoa da Galega via A8 e Sete Casas",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2744",
+        "name": "Lisboa (C. Grande) - Póvoa da Galega via A8 Lousa e Freixeira",
+        "color": "#FDB71A"
+    },
+    {
+        "id": "2745",
+        "name": "Póvoa da Galega - Lisboa (C. Grande) via Murteira",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2746",
+        "name": "Lisboa (C. Grande) - Venda do Pinheiro via Milharado e A8 Lousa",
+        "color": "#FDB71A"
+    },
+    {
+        "id": "2750",
+        "name": "Bucelas - Lisboa (C. Grande) via C. Montachique Odivelas (Metro)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2751",
+        "name": "Ericeira (Terminal) - Lisboa (C. Grande)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2753",
+        "name": "Lisboa (C. Grande) - Milharado (CASO) via Lousa",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2754",
+        "name": "Lisboa (C. Grande) - Póvoa da Galega via Guerreiros e Lousa",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2755",
+        "name": "Lisboa (C. Grande) - Póvoa da Galega via Casais do Forno",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2756",
+        "name": "Lisboa (C. Grande) - Póvoa da Galega via Urbanização do Almirante",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2758",
+        "name": "Lisboa (C. Grande) - Mafra (Terminal)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2759",
+        "name": "Guerreiros - Lisboa via A8",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2761",
+        "name": "2761 | Bucelas - Lisboa (C. Grande) via Cabeço de Montachique e Ramada",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2762",
+        "name": "Bucelas - Lisboa (C. Grande) via Ribas",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2764",
+        "name": "Bucelas - Lisboa (C. Grande) via Lumiar",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2765",
+        "name": "Cabeço de Montachique - Lisboa (C. Grande)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2768",
+        "name": "Bairro da Paradela - Lisboa (C. Grande)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2769",
+        "name": "Lisboa (C. Grande) - Sto António Cavaleiros via Cidade Nova",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2770",
+        "name": "Lisboa (C. Grande) - Sto António Cavaleiros via Lumiar e Cidade Nova",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2772",
+        "name": "Lisboa (C. Grande) - Torres da Bela Vista via Lumiar",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2774",
+        "name": "Frielas - Lisboa (C. Grande)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2776",
+        "name": "Guerreiros - Lisboa (C. Grande)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2780",
+        "name": "Loures (C.C. Continente) - Pontinha (Metro)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2781",
+        "name": "Loures (C.Comercial) - Pontinha (Metro) via Ramada",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2782",
+        "name": "Bucelas - Lisboa (C.Grande) via Ribas e Manjoeira",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2785",
+        "name": "Covas de Ferro - Lisboa (C. Grande)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2790",
+        "name": "Alverca(Est) - Areeiro",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2792",
+        "name": "Arcena - Estação Oriente",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2793",
+        "name": "Campo Grande - Quinta Piedade",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2794",
+        "name": "F. Casa(Lgo) - Estação Oriente",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2795",
+        "name": "Campo Grande - Santa Iria",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2796",
+        "name": "Lisboa (C. Grande) - Vialonga via Infantado",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2797",
+        "name": "Lisboa (C. Grande) - Vialonga via A8",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2801",
+        "name": "Ericeira (Terminal) - Lisboa (C. Grande) via A21/A8",
+        "color": "#FDB71A"
+    },
+    {
+        "id": "2802",
+        "name": "Lisboa (C. Grande) - Mafra (Terminal) via A21",
+        "color": "#FDB71A"
+    },
+    {
+        "id": "2803",
+        "name": "Ericeira (Terminal) - Lisboa (C. Grande) via Mafra e A21/A8",
+        "color": "#FDB71A"
+    },
+    {
+        "id": "2804",
+        "name": "Mafra - Lisboa (C. Grande) via A8",
+        "color": "#FDB71A"
+    },
+    {
+        "id": "2805",
+        "name": "Encarnação - Lisboa (C. Grande)",
+        "color": "#FDB71A"
+    },
+    {
+        "id": "2806",
+        "name": "Lisboa (C. Grande) - Livramento",
+        "color": "#FDB71A"
+    },
+    {
+        "id": "2807",
+        "name": "Lisboa (C. Grande) - Zambujal via Mafra",
+        "color": "#FDB71A"
+    },
+    {
+        "id": "2810",
+        "name": "Arroja - Lisboa (C. Grande)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2811",
+        "name": "Caneças (Bairro do Monte Verde) - Lisboa (C. Militar)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2812",
+        "name": "Caneças (Esc. Secundária) - Lisboa (C. Grande) via Sr. Roubado (Metro)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2813",
+        "name": "Caneças - Lisboa (C. Militar)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2814",
+        "name": "Casal Novo - Pontinha (Metro)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2816",
+        "name": "Lisboa (C. Grande) - Ramada (Bairro Bons Dias)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2817",
+        "name": "Lisboa (C. Militar) - Odivelas (Metro) via Serra da Luz",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2818",
+        "name": "Lisboa (C. Militar) - Serra da Amoreira",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2821",
+        "name": "Loures (C. Comercial) - Pontinha (Metro) via Cidade Nova",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2824",
+        "name": "Pontinha (Metro) - Sr. Roubado (Metro) via Serra da Luz",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2830",
+        "name": "Caneças - Lisboa (C. Militar) via Casal do Bispo",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2831",
+        "name": "Caneças (Esc. Secundária) - Pontinha (Metro) via Casal do Bispo e Vale Grande",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2833",
+        "name": "Pontinha (Metro) | Circular via Casal Novo",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2841",
+        "name": "Lisboa (C. Grande) - Sobralinho via A1 e Arcena",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2842",
+        "name": "Lisboa (C. Grande) - Vila Franca de Xira via Alverca e N10",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2850",
+        "name": "Costa da Caparica - Póvoa de Santo Adrião (Parque Urbano)",
+        "color": "#0C807E"
+    },
+    {
+        "id": "2900",
+        "name": "Lisboa (C. Grande) - São Sebastião",
+        "color": "#FDB71A"
+    },
+    {
+        "id": "2905",
+        "name": "Aranha (Rotunda) - Ericeira (Terminal)",
+        "color": "#BB3E96"
+    },
+    {
+        "id": "2906",
+        "name": "Assenta - Encarnação Cruz",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2907",
+        "name": "Assenta - Ericeira (Terminal)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2908",
+        "name": "Cambelas - Encarnação Cruz",
+        "color": "#BB3E96"
+    },
+    {
+        "id": "2910",
+        "name": "Ervideira - Malveira (Terminal)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2911",
+        "name": "Ervideira - Malveira (Terminal)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2912",
+        "name": "São Sebastião - Malveira (Terminal)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2913",
+        "name": "Mafra (Parque Desportivo) - Pero Negro (Estação)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2914",
+        "name": "Mafra (Parque Desportivo) - São Pedro da Cadeira (Rotunda da Aranha)",
+        "color": "#BB3E96"
+    },
+    {
+        "id": "2920",
+        "name": "A-do-Mourão - Alverca (Estação)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2921",
+        "name": "V.F.Xira - Arruda Vinhos",
+        "color": "#BB3E96"
+    },
+    {
+        "id": "2926",
+        "name": "Castanheira(Est) - Vila F. Xira via Cachoeiras",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2927",
+        "name": "Castanheira(CP) - Vila Franca Xira via Loja Nova",
+        "color": "#C61D23"
+    },
+    {
+        "id": "2928",
+        "name": "Arruda dos Vinhos - Vila Franca Xira",
+        "color": "#C61D23"
+    },
+    {
+        "id": "3001",
+        "name": "Almada (Cristo Rei) - Cacilhas (Terminal)",
+        "color": "#3D85C6"
+    },
+    {
+        "id": "3003",
+        "name": "Almada Forum - Cacilhas (Terminal)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "3004",
+        "name": "Almada Forum - Marisol",
+        "color": "#C61D23"
+    },
+    {
+        "id": "3005",
+        "name": "Flexibus Almada | Circular",
+        "color": "#3D85C6"
+    },
+    {
+        "id": "3007",
+        "name": "Bairro Fundo Fomento - Cacilhas (Terminal)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "3008",
+        "name": "Monte de Caparica - Quintinhas",
+        "color": "#C61D23"
+    },
+    {
+        "id": "3009",
+        "name": "Cacilhas (Terminal) - Trafaria (Terminal)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "3011",
+        "name": "Cacilhas (Terminal) - Costa da Caparica via Escola José Cardoso Pires",
+        "color": "#C61D23"
+    },
+    {
+        "id": "3012",
+        "name": "Cacilhas (Terminal) - Fonte da Telha",
+        "color": "#C61D23"
+    },
+    {
+        "id": "3013",
+        "name": "Cacilhas (Terminal) - Feijó (Almada Forum)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "3017",
+        "name": "Charneca de Caparica - Pragal (Estação)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "3018",
+        "name": "Charneca de Caparica - Sobreda",
+        "color": "#C61D23"
+    },
+    {
+        "id": "3019",
+        "name": "Charneca de Caparica - Trafaria (Terminal)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "3021",
+        "name": "Costa da Caparica (Terminal) - Monte de Caparica (FCT)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "3022",
+        "name": "Costa da Caparica (Terminal) - Cacilhas (Terminal)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "3023",
+        "name": "Costa da Caparica (Terminal) - Laranjeiro",
+        "color": "#C61D23"
+    },
+    {
+        "id": "3024",
+        "name": "Costa da Caparica (Terminal) - Pragal (Estação)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "3025",
+        "name": "Costa da Caparica (Terminal) - Pragal (Estação) via IC20",
+        "color": "#C61D23"
+    },
+    {
+        "id": "3026",
+        "name": "Cova da Piedade - Hospital Garcia de Orta",
+        "color": "#3D85C6"
+    },
+    {
+        "id": "3027",
+        "name": "Hospital Garcia de Orta - Sobreda",
+        "color": "#C61D23"
+    },
+    {
+        "id": "3030",
+        "name": "Fonte da Telha - Monte de Caparica (FCT)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "3033",
+        "name": "Monte de Caparica | Circular",
+        "color": "#3D85C6"
+    },
+    {
+        "id": "3034",
+        "name": "Porto Brandão (Terminal) - Quinta do Texugo",
+        "color": "#C61D23"
+    },
+    {
+        "id": "3038",
+        "name": "Banática - Porto Brandão",
+        "color": "#3D85C6"
+    },
+    {
+        "id": "3039",
+        "name": "Cova do Vapor - Raposeira (via Trafaria)",
+        "color": "#3D85C6"
+    },
+    {
+        "id": "3040",
+        "name": "Cacilhas (Terminal) - Quinta do Texugo",
+        "color": "#C61D23"
+    },
+    {
+        "id": "3041",
+        "name": "Cacilhas (Terminal) - Caparica (Pilotos)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "3042",
+        "name": "Aroeira - Charneca de Caparica",
+        "color": "#3D85C6"
+    },
+    {
+        "id": "3043",
+        "name": "Charneca de Caparica - Lazarim (Casalinho da Rosa)",
+        "color": "#3D85C6"
+    },
+    {
+        "id": "3101",
+        "name": "Amora - Foros de Amora (Estação)",
+        "color": "#3D85C6"
+    },
+    {
+        "id": "3103",
+        "name": "Corroios (Estação) - Paio Pires (Centro) via Farinheiras",
+        "color": "#C61D23"
+    },
+    {
+        "id": "3104",
+        "name": "Corroios (Estação) - Vale de Milhaços",
+        "color": "#C61D23"
+    },
+    {
+        "id": "3105",
+        "name": "Fernão Ferro - Fogueteiro (Estação)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "3106",
+        "name": "Coina (Estação) - Fernão Ferro",
+        "color": "#3D85C6"
+    },
+    {
+        "id": "3107",
+        "name": "Fernão Ferro - Pinhal de Frades (C. Saúde)",
+        "color": "#3D85C6"
+    },
+    {
+        "id": "3108",
+        "name": "Fogueteiro - Foros de Amora (Estação)",
+        "color": "#3D85C6"
+    },
+    {
+        "id": "3109",
+        "name": "Fogueteiro (Estação) - Parque Empresarial do Seixal",
+        "color": "#C61D23"
+    },
+    {
+        "id": "3110",
+        "name": "Fogueteiro (Estação) - Redondos",
+        "color": "#C61D23"
+    },
+    {
+        "id": "3111",
+        "name": "Fogueteiro (Estação) - Seixal (Terminal Fluvial)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "3112",
+        "name": "Fogueteiro (Estação) - Seixal (Terminal Fluvial) via Paio Pires",
+        "color": "#3D85C6"
+    },
+    {
+        "id": "3113",
+        "name": "Fogueteiro (Estação) - Seixal (Terminal Fluvial) via Quinta do Cabral",
+        "color": "#3D85C6"
+    },
+    {
+        "id": "3114",
+        "name": "Foros de Amora (Estação) - Paio Pires (Quinta Flamância)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "3116",
+        "name": "Marisol (Valadares) - Seixal (Terminal Fluvial) via Corroios (Estação)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "3118",
+        "name": "Marisol (Valadares) - Seixal (Terminal Fluvial)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "3119",
+        "name": "Pinhal Conde Cunha - Seixal (Terminal Fluvial)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "3120",
+        "name": "Redondos - Seixal (Terminal Fluvial)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "3121",
+        "name": "Seixal | Circular",
+        "color": "#3D85C6"
+    },
+    {
+        "id": "3201",
+        "name": "Aldeia do Meco - Sesimbra (Terminal) via Aiana",
+        "color": "#C61D23"
+    },
+    {
+        "id": "3202",
+        "name": "Alfarim - Sesimbra (Terminal) via Aiana",
+        "color": "#C61D23"
+    },
+    {
+        "id": "3203",
+        "name": "Azoia - Sesimbra (Terminal)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "3204",
+        "name": "Azoia - Sesimbra (Terminal) via Serra da Azoia",
+        "color": "#C61D23"
+    },
+    {
+        "id": "3205",
+        "name": "Cabo Espichel - Sesimbra (Terminal)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "3206",
+        "name": "Carrasqueira - Sesimbra (Terminal)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "3207",
+        "name": "Carrasqueira - Sesimbra (Terminal) via Valbom e Sampaio",
+        "color": "#C61D23"
+    },
+    {
+        "id": "3208",
+        "name": "Aldeia do Meco - Sesimbra (Terminal) via Zambujal",
+        "color": "#C61D23"
+    },
+    {
+        "id": "3209",
+        "name": "Fetais - Sesimbra (Terminal) via Aiana",
+        "color": "#C61D23"
+    },
+    {
+        "id": "3210",
+        "name": "Lagoa de Albufeira - Sesimbra (Terminal)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "3211",
+        "name": "Lagoa de Albufeira - Sesimbra (Terminal) via Sampaio",
+        "color": "#C61D23"
+    },
+    {
+        "id": "3212",
+        "name": "Maçã (Rua Macieira) - Sesimbra (Terminal)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "3213",
+        "name": "Pinhal de Cima - Sesimbra (Terminal) | Circular",
+        "color": "#C61D23"
+    },
+    {
+        "id": "3214",
+        "name": "Sampaio - Santana",
+        "color": "#C61D23"
+    },
+    {
+        "id": "3215",
+        "name": "Fornos - Sampaio (via Aiana)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "3216",
+        "name": "Maçã - Sampaio",
+        "color": "#C61D23"
+    },
+    {
+        "id": "3217",
+        "name": "Azoia - Sampaio",
+        "color": "#C61D23"
+    },
+    {
+        "id": "3218",
+        "name": "Sesimbra | Circular via Porto de Abrigo",
+        "color": "#3D85C6"
+    },
+    {
+        "id": "3220",
+        "name": "Sesimbra (Centro) | Circular",
+        "color": "#3D85C6"
+    },
+    {
+        "id": "3221",
+        "name": "Valbom - Sesimbra (Terminal) via Sampaio",
+        "color": "#C61D23"
+    },
+    {
+        "id": "3222",
+        "name": "Quinta do Conde | Circular",
+        "color": "#3D85C6"
+    },
+    {
+        "id": "3223",
+        "name": "Sampaio (Moagem) - Sesimbra (Terminal)",
+        "color": "#3D85C6"
+    },
+    {
+        "id": "3503",
+        "name": "Almada Forum - Vale de Milhaços",
+        "color": "#C61D23"
+    },
+    {
+        "id": "3504",
+        "name": "Hospital Garcia de Orta - Quintinhas",
+        "color": "#C61D23"
+    },
+    {
+        "id": "3505",
+        "name": "Cacilhas (Terminal) - Paio Pires (Farinheiras)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "3506",
+        "name": "Cacilhas (Terminal) - Corroios (Estação) via Miratejo",
+        "color": "#C61D23"
+    },
+    {
+        "id": "3507",
+        "name": "Cacilhas (Terminal) - Marisol",
+        "color": "#C61D23"
+    },
+    {
+        "id": "3508",
+        "name": "Cacilhas (Terminal) - Paio Pires (Centro)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "3509",
+        "name": "Cacilhas (Terminal) - Paio Pires (Centro) via Seixal (Terminal Fluvial) e Amora",
+        "color": "#C61D23"
+    },
+    {
+        "id": "3510",
+        "name": "Cacilhas (Terminal) - Caparica (Pilotos)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "3511",
+        "name": "Cacilhas (Terminal) - Pinheirinho",
+        "color": "#C61D23"
+    },
+    {
+        "id": "3512",
+        "name": "Cacilhas (Terminal) - Quinta Princesa",
+        "color": "#C61D23"
+    },
+    {
+        "id": "3513",
+        "name": "Cacilhas (Terminal) - Santa Marta do Pinhal",
+        "color": "#C61D23"
+    },
+    {
+        "id": "3514",
+        "name": "Cacilhas (Terminal) - Vale de Milhaços",
+        "color": "#C61D23"
+    },
+    {
+        "id": "3515",
+        "name": "Corroios (Estação) - Caparica (Pilotos)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "3516",
+        "name": "Charneca de Caparica - Corroios (Estação)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "3517",
+        "name": "Chegadinho - Corroios (Estação)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "3518",
+        "name": "Corroios (Estação) - Vale de Figueira",
+        "color": "#C61D23"
+    },
+    {
+        "id": "3519",
+        "name": "Costa da Caparica (Terminal) - Corroios (Estação)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "3520",
+        "name": "Costa da Caparica (Terminal) - Quinta do Brasileiro",
+        "color": "#C61D23"
+    },
+    {
+        "id": "3521",
+        "name": "Cruz de Pau - Fonte da Telha",
+        "color": "#C61D23"
+    },
+    {
+        "id": "3522",
+        "name": "Fonte da Telha - Paio Pires (Centro)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "3523",
+        "name": "Fonte da Telha - Paio Pires (Quinta Flamância) via Seixal (Terminal Fluvial) e Foros de Amora (Estação)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "3524",
+        "name": "Hospital Garcia de Orta - Marisol",
+        "color": "#C61D23"
+    },
+    {
+        "id": "3525",
+        "name": "Hospital Garcia de Orta - Miratejo",
+        "color": "#C61D23"
+    },
+    {
+        "id": "3526",
+        "name": "Laranjeiro - Pinheirinho",
+        "color": "#C61D23"
+    },
+    {
+        "id": "3527",
+        "name": "Monte de Caparica (FCT) - Paio Pires (Bairro Cucena)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "3535",
+        "name": "Cacilhas (Terminal) - Quinta do Conde",
+        "color": "#C61D23"
+    },
+    {
+        "id": "3536",
+        "name": "Cacilhas (Terminal) - Sesimbra (Terminal)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "3540",
+        "name": "Zambujal - Coina (Estação)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "3541",
+        "name": "Coina (Estação) - Fernão Ferro via Casal do Sapo e Pinhal do General",
+        "color": "#C61D23"
+    },
+    {
+        "id": "3542",
+        "name": "Coina (Estação) - Praia do Meco",
+        "color": "#C61D23"
+    },
+    {
+        "id": "3543",
+        "name": "Coina (Estação) | Circular via Qta. do Conde",
+        "color": "#C61D23"
+    },
+    {
+        "id": "3544",
+        "name": "Coina (Estação) - Sesimbra (Terminal) via Marco do Grilo",
+        "color": "#C61D23"
+    },
+    {
+        "id": "3546",
+        "name": "Cruz de Pau - Quinta do Conde",
+        "color": "#C61D23"
+    },
+    {
+        "id": "3547",
+        "name": "Fogueteiro (Estação) - Quinta do Conde",
+        "color": "#C61D23"
+    },
+    {
+        "id": "3548",
+        "name": "Marco do Grilo - Quinta do Conde",
+        "color": "#C61D23"
+    },
+    {
+        "id": "3549",
+        "name": "Quinta do Conde - Sesimbra (Terminal) via Sampaio e Marco do Grilo",
+        "color": "#C61D23"
+    },
+    {
+        "id": "3601",
+        "name": "Barreiro - Cova da Piedade (Metro)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "3605",
+        "name": "Cacilhas (Terminal) - Setúbal (ITS) via Azeitão",
+        "color": "#C61D23"
+    },
+    {
+        "id": "3615",
+        "name": "Barreiro (Terminal) - Seixal (Terminal Fluvial)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "3620",
+        "name": "Coina (Estação) - Quinta do Conde",
+        "color": "#C61D23"
+    },
+    {
+        "id": "3625",
+        "name": "Barreiro (Fórum) - Sesimbra (Terminal)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "3626",
+        "name": "Coina (Estação) - Vila Nogueira de Azeitão",
+        "color": "#C61D23"
+    },
+    {
+        "id": "3635",
+        "name": "Coina (Estação) - Sesimbra (Terminal) via Azeitão e Sampaio",
+        "color": "#C61D23"
+    },
+    {
+        "id": "3640",
+        "name": "Azoia - Vila Nogueira de Azeitão",
+        "color": "#C61D23"
+    },
+    {
+        "id": "3641",
+        "name": "Quinta do Conde - Sampaio via Azeitão",
+        "color": "#C61D23"
+    },
+    {
+        "id": "3642",
+        "name": "Sesimbra (Terminal) - Setúbal (Hospital)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "3650",
+        "name": "Moita - Sesimbra (Terminal)",
+        "color": "#0C807E"
+    },
+    {
+        "id": "3701",
+        "name": "Almada (Hosp. Particular) - Algés (Terminal)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "3702",
+        "name": "Almada (Parque Urbano) - Lisboa (C. Universitária)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "3703",
+        "name": "Almada (Parque Urbano) - Lisboa (Areeiro)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "3704",
+        "name": "Charneca de Caparica - Lisboa (M. Pombal)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "3705",
+        "name": "Charneca de Caparica (Centro) - Lisboa (Sete Rios)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "3706",
+        "name": "Charneca de Caparica - Lisboa (Sete Rios) via Feijó",
+        "color": "#C61D23"
+    },
+    {
+        "id": "3708",
+        "name": "Costa da Caparica (Terminal) - Lisboa (C. Sodré)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "3709",
+        "name": "Costa da Caparica (Terminal) - Lisboa (M. Pombal)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "3710",
+        "name": "Costa da Caparica (Terminal) - Lisboa (Areeiro)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "3711",
+        "name": "Monte de Caparica (FCT) - Lisboa (Sete Rios)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "3715",
+        "name": "Lisboa (M. Pombal) - Santa Marta do Pinhal",
+        "color": "#C61D23"
+    },
+    {
+        "id": "3716",
+        "name": "Lisboa (Sete Rios) - Marisol",
+        "color": "#C61D23"
+    },
+    {
+        "id": "3717",
+        "name": "Lisboa (Sete Rios) - Quinta do Brasileiro",
+        "color": "#C61D23"
+    },
+    {
+        "id": "3720",
+        "name": "Lisboa (Sete Rios) - Quinta do Conde",
+        "color": "#FDB71A"
+    },
+    {
+        "id": "3721",
+        "name": "Lisboa (Sete Rios) - Sesimbra (Terminal)",
+        "color": "#FDB71A"
+    },
+    {
+        "id": "4001",
+        "name": "Alcochete | Circular",
+        "color": "#3D85C6"
+    },
+    {
+        "id": "4002",
+        "name": "São Francisco | Circular",
+        "color": "#3D85C6"
+    },
+    {
+        "id": "4102",
+        "name": "Moita (Estação) - Sarilhos Pequenos via Gaio-Rosário",
+        "color": "#C61D23"
+    },
+    {
+        "id": "4103",
+        "name": "Moita (Estação) - Sarilhos Pequenos",
+        "color": "#3D85C6"
+    },
+    {
+        "id": "4104",
+        "name": "Moita | Circular via Centro",
+        "color": "#3D85C6"
+    },
+    {
+        "id": "4105",
+        "name": "Moita | Circular via Carvalhinho",
+        "color": "#3D85C6"
+    },
+    {
+        "id": "4106",
+        "name": "Alhos Vedros | Circular via Centro de Saúde",
+        "color": "#3D85C6"
+    },
+    {
+        "id": "4107",
+        "name": "Alhos Vedros | Circular via Arroteias",
+        "color": "#3D85C6"
+    },
+    {
+        "id": "4203",
+        "name": "Afonsoeiro - Montijo (Terminal Fluvial) via Bairro da Liberdade",
+        "color": "#3D85C6"
+    },
+    {
+        "id": "4204",
+        "name": "Bairro do Charqueirão - Montijo (Terminal Fluvial)",
+        "color": "#3D85C6"
+    },
+    {
+        "id": "4205",
+        "name": "Montijo (Terminal Fluvial) - Vale Porrim via Bairro do Charqueirão",
+        "color": "#C61D23"
+    },
+    {
+        "id": "4207",
+        "name": "Montijo (Área Comercial) - Montijo (Terminal Fluvial)",
+        "color": "#3D85C6"
+    },
+    {
+        "id": "4208",
+        "name": "Montijo (Terminal Fluvial) - Sarilhos Grandes (Estr. 4 Marcos)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "4211",
+        "name": "Craveiras - Pegões | Circular",
+        "color": "#3D85C6"
+    },
+    {
+        "id": "4302",
+        "name": "Palmela (Estação) - Palmela (Terminal)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "4303",
+        "name": "Palmela | Circular",
+        "color": "#3D85C6"
+    },
+    {
+        "id": "4304",
+        "name": "Palmela (Terminal) - Penalva",
+        "color": "#C61D23"
+    },
+    {
+        "id": "4305",
+        "name": "Brejos do Assa - Palmela (Terminal)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "4307",
+        "name": "Loja Nova - Palmela (Terminal)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "4308",
+        "name": "Palmela (Terminal) - Pinhal Novo (Estação)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "4312",
+        "name": "Poceirão - Vale Abrunheira (X) via Fernando Pó",
+        "color": "#C61D23"
+    },
+    {
+        "id": "4313",
+        "name": "São Gonçalo - Penalva",
+        "color": "#C61D23"
+    },
+    {
+        "id": "4320",
+        "name": "Pinhal Novo | Circular",
+        "color": "#3D85C6"
+    },
+    {
+        "id": "4321",
+        "name": "Pinhal Novo - Qta do Anjo",
+        "color": "#C61D23"
+    },
+    {
+        "id": "4322",
+        "name": "Pinhal Novo - Rio Frio",
+        "color": "#C61D23"
+    },
+    {
+        "id": "4401",
+        "name": "Cachofarra - Setúbal (Hospital)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "4402",
+        "name": "Estefanilha - Setúbal (ITS)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "4403",
+        "name": "Ferro Engomar (Terminal) - Setúbal (Av. Luísa Todi) via ITS",
+        "color": "#3D85C6"
+    },
+    {
+        "id": "4404",
+        "name": "Interfaces Setúbal | Circular via Rodrigues Manito",
+        "color": "#3D85C6"
+    },
+    {
+        "id": "4405",
+        "name": "Interfaces Setúbal | Circular via Av Ciprestes",
+        "color": "#3D85C6"
+    },
+    {
+        "id": "4406",
+        "name": "Manteigadas - Setúbal (Mercado)",
+        "color": "#3D85C6"
+    },
+    {
+        "id": "4407",
+        "name": "Manteigadas - Setúbal (Mercado) via Bairro 25 de Abril",
+        "color": "#C61D23"
+    },
+    {
+        "id": "4408",
+        "name": "Manteigadas - Setúbal (Mercado) via Bela Vista",
+        "color": "#C61D23"
+    },
+    {
+        "id": "4409",
+        "name": "Setúbal (Bº Quinta Santo António) - Setúbal (Bº Viso) via Montebelo",
+        "color": "#C61D23"
+    },
+    {
+        "id": "4410",
+        "name": "Manteigadas (Esc. Profissional) - Poço Mouro via Centro Comercial",
+        "color": "#C61D23"
+    },
+    {
+        "id": "4412",
+        "name": "Morgada - Setúbal (Mercado)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "4414",
+        "name": "Outão (Hospital) - Setúbal (ITS)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "4415",
+        "name": "Outão (Hospital) - Setúbal (ITS) via vale da Rasca",
+        "color": "#C61D23"
+    },
+    {
+        "id": "4416",
+        "name": "Poço Mouro - Setúbal (ITS)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "4417",
+        "name": "Poço Mouro - Setúbal (ITS) via Manteigadas",
+        "color": "#C61D23"
+    },
+    {
+        "id": "4418",
+        "name": "Setúbal (Alegro) - Setúbal (Av. 5 Outubro)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "4419",
+        "name": "Brejos Canes - Setúbal (Saboaria)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "4420",
+        "name": "Setúbal (Centro Comercial) - Setúbal (ITS)",
+        "color": "#3D85C6"
+    },
+    {
+        "id": "4422",
+        "name": "Setúbal (Bairro Camolas) - Setúbal (Casal Figueiras) via Bairro do Viso",
+        "color": "#C61D23"
+    },
+    {
+        "id": "4424",
+        "name": "Setúbal (Bairro Viso) - Manteigadas (Piscinas)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "4425",
+        "name": "Setúbal (Escola Viso) - Mitrena",
+        "color": "#C61D23"
+    },
+    {
+        "id": "4426",
+        "name": "Setúbal (Bairro do Viso) - Setúbal (Bairro Quinta Santo António)",
+        "color": "#3D85C6"
+    },
+    {
+        "id": "4427",
+        "name": "Setúbal (Bela Vista) - Setúbal (Mercado)",
+        "color": "#3D85C6"
+    },
+    {
+        "id": "4428",
+        "name": "Setúbal (Casal Figueiras) - Vale Ana Gomes",
+        "color": "#C61D23"
+    },
+    {
+        "id": "4429",
+        "name": "Setúbal (Centro Saúde) - Setúbal (Mercado)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "4431",
+        "name": "Setúbal (ITS) - Setúbal (Quinta Varzinha)",
+        "color": "#3D85C6"
+    },
+    {
+        "id": "4432",
+        "name": "Setúbal (ITS) - Vale de Choupo",
+        "color": "#C61D23"
+    },
+    {
+        "id": "4433",
+        "name": "Alto Guerra - Setúbal (Casal Figueiras)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "4434",
+        "name": "Setúbal (Mercado 2 de Abril) - Setúbal (R. Timor)",
+        "color": "#3D85C6"
+    },
+    {
+        "id": "4435",
+        "name": "Biscainho - Faralhão",
+        "color": "#C61D23"
+    },
+    {
+        "id": "4436",
+        "name": "Setúbal (Mercado) - Setúbal (Terroa)",
+        "color": "#3D85C6"
+    },
+    {
+        "id": "4437",
+        "name": "Faralhão - Setúbal (ITS)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "4438",
+        "name": "Setúbal (Monte Belo Norte) - Setúbal (Saboaria)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "4439",
+        "name": "Praias do Sado - Setúbal (ITS)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "4440",
+        "name": "Setúbal (Monte Belo Norte) - Setúbal (Saboaria) via Centro Comercial",
+        "color": "#C61D23"
+    },
+    {
+        "id": "4441",
+        "name": "Setúbal (Saboaria) - Setúbal (Vale Cobro)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "4443",
+        "name": "Setúbal (Politécnico) - Praias do Sado",
+        "color": "#C61D23"
+    },
+    {
+        "id": "4451",
+        "name": "Mitrena (Lisnave) - Setúbal (ITS)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "4452",
+        "name": "Mitrena (Portucel) - Setúbal (ITS)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "4453",
+        "name": "Mitrena (Portucel) - Setúbal (ITS) via Estrada Graça",
+        "color": "#C61D23"
+    },
+    {
+        "id": "4463",
+        "name": "Azeitão | Circular via R. José Augusto Coelho",
+        "color": "#3D85C6"
+    },
+    {
+        "id": "4464",
+        "name": "Azeitão | Circular via R. Dr. Francisco Gonçalves de Oliveira",
+        "color": "#3D85C6"
+    },
+    {
+        "id": "4465",
+        "name": "Escolas Azeitão | Trajeto 1",
+        "color": "#3D85C6"
+    },
+    {
+        "id": "4466",
+        "name": "Escolas Azeitão | Trajeto 2",
+        "color": "#3D85C6"
+    },
+    {
+        "id": "4467",
+        "name": "Escolas Azeitão | Trajeto 3",
+        "color": "#3D85C6"
+    },
+    {
+        "id": "4468",
+        "name": "Escolas Azeitão | Trajeto 4",
+        "color": "#3D85C6"
+    },
+    {
+        "id": "4470",
+        "name": "Setúbal (ITS) - Praia do Creiro via Vila Nogueira de Azeitão",
+        "color": "#C61D23"
+    },
+    {
+        "id": "4471",
+        "name": "Praia Albarquel | Circular",
+        "color": "#C61D23"
+    },
+    {
+        "id": "4474",
+        "name": "Praia da Figueirinha - Setúbal (Centro Comercial)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "4477",
+        "name": "Creiro - Galapos",
+        "color": "#3D85C6"
+    },
+    {
+        "id": "4481",
+        "name": "ITS | Circular via Luísa Todi e Av D Manuel",
+        "color": "#C61D23"
+    },
+    {
+        "id": "4482",
+        "name": "ITS | Circular via Várzea e Pinheirinhos",
+        "color": "#C61D23"
+    },
+    {
+        "id": "4501",
+        "name": "Alcochete (Freeport) - Montijo (Terminal Fluvial)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "4504",
+        "name": "Alcochete (Freeport) - Montijo (Terminal Fluvial) via Atalaia e Passil",
+        "color": "#C61D23"
+    },
+    {
+        "id": "4512",
+        "name": "Alcochete (Freeport) - Setúbal (ITS)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "4514",
+        "name": "Canha - Montijo (Terminal Rodoviário) via Pegões",
+        "color": "#C61D23"
+    },
+    {
+        "id": "4515",
+        "name": "Montijo (Terminal Rodoviário) - Pegões",
+        "color": "#C61D23"
+    },
+    {
+        "id": "4516",
+        "name": "Montijo (Terminal Rodoviário) - Rio Frio",
+        "color": "#C61D23"
+    },
+    {
+        "id": "4521",
+        "name": "Faias - Pinhal Novo via Lagameças",
+        "color": "#C61D23"
+    },
+    {
+        "id": "4524",
+        "name": "Palmela (Terminal) - Pegões",
+        "color": "#C61D23"
+    },
+    {
+        "id": "4530",
+        "name": "Bairro Vila Morena - Pinhal Novo",
+        "color": "#C61D23"
+    },
+    {
+        "id": "4531",
+        "name": "Moita (Esc. Secundária) - Palmela (Terminal)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "4532",
+        "name": "Moita (Estação) - Moita (Bairro 1º Maio)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "4540",
+        "name": "Águas de Moura - Setúbal (ITS)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "4541",
+        "name": "Algeruz - Setúbal (Av. Luísa Todi)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "4542",
+        "name": "Algeruz - Setúbal (ITS)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "4543",
+        "name": "Algeruz - Setúbal (ITS) via Poçoilos",
+        "color": "#C61D23"
+    },
+    {
+        "id": "4544",
+        "name": "Bairro Margaça - Setúbal (ITS)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "4545",
+        "name": "Biscainho - Setúbal (Bela Vista)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "4546",
+        "name": "Biscainho - Setúbal (ITS)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "4548",
+        "name": "Lagameças - Setúbal (ITS)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "4549",
+        "name": "Palmela (Terminal) - Setúbal (ITS)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "4550",
+        "name": "Palmela (Terminal) - Vila Nogueira de Azeitão",
+        "color": "#C61D23"
+    },
+    {
+        "id": "4551",
+        "name": "Palmela (Alameda Nun'Álvares Pereira) - Setúbal (Av. Luísa Todi)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "4560",
+        "name": "São Gonçalo - Vila Nogueira de Azeitão (Escola Básica 2 3)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "4562",
+        "name": "Setúbal (ITS) - Vila Nogueira de Azeitão (Escola) via Palmela (Estação)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "4600",
+        "name": "Alcochete (Freeport) - Barreiro (Terminal) via Samouco",
+        "color": "#C61D23"
+    },
+    {
+        "id": "4602",
+        "name": "Alhos Vedros (Estação) - Barreiro (Terminal)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "4604",
+        "name": "Barreiro (Terminal) - Moita (Esc Secundária)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "4605",
+        "name": "Lavradio - Pinhal do Forno",
+        "color": "#C61D23"
+    },
+    {
+        "id": "4610",
+        "name": "Bairro dos Marinheiros - Barreiro (Terminal)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "4611",
+        "name": "Penalva - Moita (Esc. Secundária)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "4612",
+        "name": "Bairro dos Marinheiros - Palmela (Terminal)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "4620",
+        "name": "Moita (Esc. Secundária) - Paio Pires",
+        "color": "#C61D23"
+    },
+    {
+        "id": "4621",
+        "name": "Moita (Esc. Secundária) - Seixal (Terminal Fluvial)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "4632",
+        "name": "Coina (Estação) - Quinta do Anjo via Vendas de Azeitão",
+        "color": "#C61D23"
+    },
+    {
+        "id": "4641",
+        "name": "Quinta do Conde - Setúbal (ITS)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "4643",
+        "name": "Montijo (Av. Inf. D. Henrique) - Sesimbra (Terminal)",
+        "color": "#0C807E"
+    },
+    {
+        "id": "4701",
+        "name": "Lisboa (Oriente) - Vale da Amoreira",
+        "color": "#FDB71A"
+    },
+    {
+        "id": "4702",
+        "name": "Lisboa (Oriente) - São Francisco",
+        "color": "#FDB71A"
+    },
+    {
+        "id": "4704",
+        "name": "Atalaia - Lisboa (Oriente) via B. Areias e B. Esteval",
+        "color": "#FDB71A"
+    },
+    {
+        "id": "4705",
+        "name": "Lisboa (Oriente) - Samouco",
+        "color": "#FDB71A"
+    },
+    {
+        "id": "4706",
+        "name": "Montijo (Urb. Alto dos Moinhos) - Lisboa (Oriente)",
+        "color": "#FDB71A"
+    },
+    {
+        "id": "4707",
+        "name": "Lisboa (Oriente) - Montijo (Terminal Rodoviário)",
+        "color": "#FDB71A"
+    },
+    {
+        "id": "4708",
+        "name": "Alcochete (Freeport) - Lisboa (Oriente) via Montijo",
+        "color": "#FDB71A"
+    },
+    {
+        "id": "4710",
+        "name": "Lisboa (Oriente) - Palmela (Terminal)",
+        "color": "#FDB71A"
+    },
+    {
+        "id": "4715",
+        "name": "Lisboa (Oriente) - Setúbal (ITS) via Palmela",
+        "color": "#FDB71A"
+    },
+    {
+        "id": "4720",
+        "name": "Lisboa (Oriente) - Setúbal (Terminal Várzea)",
+        "color": "#FDB71A"
+    },
+    {
+        "id": "4725",
+        "name": "Lisboa (Sete Rios) - Setúbal (Terminal Várzea)",
+        "color": "#FDB71A"
+    },
+    {
+        "id": "4730",
+        "name": "Lisboa (Sete Rios) - Setúbal (ITS) via Azeitão",
+        "color": "#C61D23"
+    },
+    {
+        "id": "4741",
+        "name": "Lisboa (Oriente) - Vale da Amoreira | Expresso",
+        "color": "#FDB71A"
+    },
+    {
+        "id": "4901",
+        "name": "Landeira - Setúbal (ITS)",
+        "color": "#C61D23"
+    },
+    {
+        "id": "4905",
+        "name": "Faias - Vendas Novas",
+        "color": "#BB3E96"
+    },
+    {
+        "id": "4906",
+        "name": "Setúbal (ITS) - Vendas Novas via Landeira",
+        "color": "#BB3E96"
+    }, {
+        "id": "M01",
+        "name": "Parede (Terminal) - CascaiShopping (Terminal) via Estoril",
+        "color": "#31bcad"
+    }, {
+        "id": "M02",
+        "name": "Cascais (Terminal) | Circular via Malveira da Serra",
+        "color": "#31bcad"
+    }, {
+        "id": "M03",
+        "name": "CascaiShopping (Terminal) | Circular via Torre",
+        "color": "#31bcad"
+    }, {
+        "id": "M04",
+        "name": "Cascais (Estação) | Circular via Torre",
+        "color": "#31bcad"
+    }, {
+        "id": "M05",
+        "name": "Cascais (Estação) | Circular via Qta. da Marinha e Guincho",
+        "color": "#31bcad"
+    }, {
+        "id": "M06",
+        "name": "Cascais (Terminal) - Estoril (Estação) via Fisgas",
+        "color": "#31bcad"
+    }, {
+        "id": "M07",
+        "name": "Cascais (Terminal) - Estoril (Estação) via Amoreira",
+        "color": "#31bcad"
+    }, {
+        "id": "M08",
+        "name": "Cascais (Terminal) | Circular via Alvide",
+        "color": "#31bcad"
+    }, {
+        "id": "M09",
+        "name": "Cascais (Estação) | Circular via Cobre e Bairro Sant'Ana",
+        "color": "#31bcad"
+    }, {
+        "id": "M10",
+        "name": "Malveira da Serra - CascaiShopping (Terminal) via Zambujeiro",
+        "color": "#31bcad"
+    }, {
+        "id": "M11",
+        "name": "CascaiShopping (Terminal) - Estoril (Estação) via Cabreiro e Atrozela",
+        "color": "#31bcad"
+    }, {
+        "id": "M12",
+        "name": "CascaiShopping (Terminal) - Estoril (Estação) via Cabreiro Amoreira",
+        "color": "#31bcad"
+    }, {
+        "id": "M13",
+        "name": "CascaiShopping (Terminal) - Estoril (Estação) via Manique",
+        "color": "#31bcad"
+    }, {
+        "id": "M14",
+        "name": "Cascais (Terminal) | Circular via Murches e Malveira da Serra",
+        "color": "#31bcad"
+    }, {
+        "id": "M15",
+        "name": "Cascais (Estação) | Circular via Areia e Guincho",
+        "color": "#31bcad"
+    }, {
+        "id": "M16",
+        "name": "S. Domingos de Rana - Campus Carcavelos",
+        "color": "#31bcad"
+    }, {
+        "id": "M17",
+        "name": "Cascais (Terminal) - Linhó via Alvide e Hospital",
+        "color": "#31bcad"
+    }, {
+        "id": "M18",
+        "name": "Cascais (Terminal) - Linhó via Abuxarda",
+        "color": "#31bcad"
+    }, {
+        "id": "M19",
+        "name": "Estoril (Estação) | Circular via Galiza e Pau Gordo",
+        "color": "#31bcad"
+    }, {
+        "id": "M20",
+        "name": "Estoril (Estação) - Linhó",
+        "color": "#31bcad"
+    }, {
+        "id": "M21",
+        "name": "Carcavelos (Estação) - Talaíde",
+        "color": "#31bcad"
+    }, {
+        "id": "M22",
+        "name": "Carcavelos (Estação) - Cascais (Terminal) via Manique",
+        "color": "#31bcad"
+    }, {
+        "id": "M23",
+        "name": "Talaíde - Estoril (Estação)",
+        "color": "#31bcad"
+    }, {
+        "id": "M24",
+        "name": "Carcavelos (Estação) - Manique",
+        "color": "#31bcad"
+    }, {
+        "id": "M25",
+        "name": "Parede (Terminal) | Circular via SDR e Carcavelos",
+        "color": "#31bcad"
+    }, {
+        "id": "M26",
+        "name": "Parede (Terminal) | Circular via Matarraque",
+        "color": "#31bcad"
+    }, {
+        "id": "M27",
+        "name": "Cascais (Estação) | Circular",
+        "color": "#31bcad"
+    }, {
+        "id": "M28",
+        "name": "Malveira da Serra - CascaiShopping (Terminal) via Depósitos da Água",
+        "color": "#31bcad"
+    }, {
+        "id": "M29",
+        "name": "São João do Estoril (Estação) - CascaiShopping (Terminal)",
+        "color": "#31bcad"
+    }, {
+        "id": "M30",
+        "name": "Parede (Terminal) - Abóboda",
+        "color": "#31bcad"
+    }, {
+        "id": "M31",
+        "name": "Carcavelos (Estação) - Hospital de Cascais via Bicesse",
+        "color": "#31bcad"
+    }, {
+        "id": "M32",
+        "name": "Parede (Terminal) - Trajouce via Murtal",
+        "color": "#31bcad"
+    }, {
+        "id": "M33",
+        "name": "E. Leclerc | Circular via Sassoeiros e Tires",
+        "color": "#31bcad"
+    }, {
+        "id": "M34",
+        "name": "Cascais (Estação) - Costa da Guia",
+        "color": "#31bcad"
+    }, {
+        "id": "M35",
+        "name": "Trajouce Norte - Carcavelos (Estação) via S. Domingos de Rana",
+        "color": "#31bcad"
+    }, {
+        "id": "M36",
+        "name": "Trajouce Norte - Carcavelos (Estação) via Outeiro de Polima",
+        "color": "#31bcad"
+    }, {
+        "id": "M37",
+        "name": "E. Leclerc Norte | Circular",
+        "color": "#31bcad"
+    }, {
+        "id": "M38",
+        "name": "Estoril (Estação) - CascaiShopping",
+        "color": "#31bcad"
+    }, {
+        "id": "M39",
+        "name": "Cascais (Terminal) - Alto do Bicesse",
+        "color": "#31bcad"
+    }, {
+        "id": "M40",
+        "name": "Hospital de Cascais | Circular via Alcabideche e Malveira da Serra",
+        "color": "#31bcad"
+    }, {
+        "id": "M41",
+        "name": "Carcavelos (Estação) | Circular",
+        "color": "#31bcad"
+    }, {
+        "id": "M42",
+        "name": "Conceição da Abóboda - Escola Secundária de Carcavelos",
+        "color": "#31bcad"
+    }, {
+        "id": "M43",
+        "name": "Cascais (Estação) | Circular via Guincho",
+        "color": "#31bcad"
+    }, {
+        "id": "M44",
+        "name": "Cascais (Estação) - Quinta do Pisão",
+        "color": "#31bcad"
+    }
+]

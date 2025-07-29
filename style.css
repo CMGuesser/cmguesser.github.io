@@ -133,3 +133,18 @@ body {
     color: white;
     text-align: center;
 }
+
+.options {
+  text-align: left;
+  width: calc(100% - 5rem);
+  font-size: 1.5rem;
+}
+
+.options label {
+  margin-left: .5rem;
+}
+
+.options div {
+  margin-left: 1rem;
+  font-size: 1.25rem;
+}

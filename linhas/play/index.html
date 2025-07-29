@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="pt">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>CM Guesser - Linhas</title>
+
+    <meta name="description"
+        content="CM Guesser é um jogo gratuito e online que te desafia a descobrir a paragem da Carris Metropolitana através dos seus horários!">
+    <meta name="keywords" content="online, game, geography, geolocating, buses, carris metropolitana">
+    <meta name="author" content="Movies22">
+    <meta name="language" content="pt">
+
+    <meta property="og:title" content="CM Guesser" />
+    <meta property="og:description"
+        content="CM Guesser é um jogo gratuito e online que te desafia a descobrir a paragem da Carris Metropolitana através dos seus horários!" />
+    <meta property="og:image" content="https://cmguesser.github.io/logo.png" />
+    <meta property="og:url" content="https://cmguesser.github.io/" />
+    <meta property="og:type" content="website" />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="CM Guesser" />
+    <meta name="twitter:description"
+        content="CM Guesser é um jogo gratuito e online que te desafia a descobrir a paragem da Carris Metropolitana através dos seus horários!" />
+    <meta name="twitter:image" content="https://cmguesser.github.io/logo.png" />
+    <meta name="twitter:url" content="https://cmguesser.github.io/" />
+
+    <link rel="stylesheet" href="/style.css" />
+
+    <meta name="google-site-verification" content="TjfZ96_mIVC5Snu3KwmpZdacxO0KTi3C-5_bBn-a8fY" />
+</head>
+
+<body>
+    <div class="navbar">
+        <div class="nav-links">
+            <p>CM Guesser</p>
+        </div>
+    </div>
+    <section class="landing">
+        <div class="main-landing">
+            <div class="options">
+                <input type="checkbox" class="area" id="a1"><label for="a1">Área 1</label>
+                <div id="area1">
+                    <input id="10" type="checkbox"><label for="10">10xx - Amadora</label><br>
+                    <input id="11" type="checkbox"><label for="11">11xx - Oeiras</label><br>
+                    <input id="12" type="checkbox"><label for="12">12xx - Sintra</label><br>
+                    <input id="15" type="checkbox"><label for="15">15xx</label><br>
+                    <input id="16" type="checkbox"><label for="16">16xx</label><br>
+                    <input id="17" type="checkbox"><label for="17">17xx - Lisboa</label><br>
+                    <input id="1M" type="checkbox"><label for="1M">Mxx - Cascais</label><br>
+                </div>
+                <!--<input type="checkbox" class="area"><label>Área 2</label>
+                <input type="checkbox" class="area"><label>Área 3</label>
+                <input type="checkbox" class="area"><label>Área 4</label>-->
+            </div>
+            <div class="button-row">
+                <button id="start">Começar</button>
+            </div>
+        </div>
+    </section>
+
+    <script>
+        let button10 = document.getElementById("10")
+        let button11 = document.getElementById("11")
+        let button12 = document.getElementById("12")
+        let button15 = document.getElementById("15")
+        let button16 = document.getElementById("16")
+        let button17 = document.getElementById("17")
+        let button1M = document.getElementById("1M")
+
+        let a1 = document.getElementById("a1")
+
+        let values = {
+            
+        }
+
+        a1.oninput = () => {
+            let value = a1.checked;
+            alert(value);
+            [button10, button11, button12, button15, button16, button17, button1M].forEach(b => {
+                b.checked = value
+                values[b.id] = value;
+            });
+        }
+        
+        [button10, button11, button12, button15, button16, button17, button1M].forEach(button => {
+            values[button.id] = false;
+            button.onclick = () => {
+                values[button.id] = button.checked;
+                if(Object.values(values).some(a => a === false)) {
+                    a1.checked = false
+                } else {
+                    a1.checked = true
+                }
+            }
+        })
+
+        document.getElementById("start").onclick = () => {
+            if(Object.keys(values).filter(k => values[k]).length === 0) return alert("Por favor seleciona pelo menos 1 linha")
+            window.location.href = "/linhas/lobby?filters=" + Object.keys(values).filter(k => values[k]).join(",")
+        }
+    </script>
+</body>
+
+</html>
