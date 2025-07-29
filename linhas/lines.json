@@ -6,7 +6,7 @@
     },
     {
         "id": "1002",
-        "name": "Reboleira (Estação) | Circular via Alfragide (Centro comercial ) e Amadora (Estação Sul)",
+        "name": "Reboleira (Estação) | Circular via Alfragide (Centro comercial) e Amadora (Estação Sul)",
         "color": "#C61D23"
     },
     {
@@ -141,12 +141,12 @@
     },
     {
         "id": "1119",
-        "name": "Leceia (Rotunda) - Paço De Arcos (Estação Norte)",
+        "name": "Leceia (Rotunda) - Paço de Arcos (Estação Norte)",
         "color": "#C61D23"
     },
     {
         "id": "1120",
-        "name": "Oeiras (Estação Norte) - Paço De Arcos (Estação Norte)",
+        "name": "Oeiras (Estação Norte) - Paço de Arcos (Estação Norte)",
         "color": "#3D85C6"
     },
     {
@@ -161,7 +161,7 @@
     },
     {
         "id": "1123",
-        "name": "Paço De Arcos (Estação Norte) - Porto Salvo (Lagoas Park)",
+        "name": "Paço de Arcos (Estação Norte) - Porto Salvo (Lagoas Park)",
         "color": "#C61D23"
     },
     {
@@ -216,7 +216,7 @@
     },
     {
         "id": "1212",
-        "name": "Venda Seca - Queluz (Estação)",
+        "name": "Venda Seca - Queluz-Belas (Estação)",
         "color": "#C61D23"
     },
     {
@@ -266,7 +266,7 @@
     },
     {
         "id": "1223",
-        "name": "Agualva-Cacém (Estação) - Portela Sintra (Estação Sul)",
+        "name": "Agualva-Cacém (Estação) - Portela de Sintra (Estação Sul)",
         "color": "#C61D23"
     },
     {
@@ -276,12 +276,12 @@
     },
     {
         "id": "1225",
-        "name": "Agualva-Cacém (Estação) | Circular Via Enc. S. Marcos Univ Católica e Bela Vista",
+        "name": "Agualva-Cacém (Estação) | Circular via Enc. S. Marcos Univ Católica e Bela Vista",
         "color": "#C61D23"
     },
     {
         "id": "1226",
-        "name": "Massamá (Casal Olival) - Queluz - Belas (Estação)",
+        "name": "Massamá (Casal Olival) - Queluz-Belas (Estação)",
         "color": "#3D85C6"
     },
     {
@@ -326,12 +326,12 @@
     },
     {
         "id": "1236",
-        "name": "Alto do Forte (Centro Comercial) - Queluz - Belas (Estação)",
+        "name": "Alto do Forte (Centro Comercial) - Queluz-Belas (Estação)",
         "color": "#C61D23"
     },
     {
         "id": "1240",
-        "name": "Negrais (Soc Recreativa) - Portela Sintra (Estação Norte)",
+        "name": "Negrais (Soc Recreativa) - Portela de Sintra (Estação Norte)",
         "color": "#C61D23"
     },
     {
@@ -351,7 +351,7 @@
     },
     {
         "id": "1245",
-        "name": "Catribana (Largo) - Portela Sintra (Estação Norte)",
+        "name": "Catribana (Largo) - Portela de Sintra (Estação Norte)",
         "color": "#C61D23"
     },
     {
@@ -361,17 +361,17 @@
     },
     {
         "id": "1248",
-        "name": "Portela Sintra (Estação Norte) - Praia Maçãs (Mercado)",
+        "name": "Portela de Sintra (Estação Norte) - Praia Maçãs (Mercado)",
         "color": "#C61D23"
     },
     {
         "id": "1249",
-        "name": "Portela Sintra (Estação Norte) - Magoito (Praia)",
+        "name": "Portela de Sintra (Estação Norte) - Magoito (Praia)",
         "color": "#C61D23"
     },
     {
         "id": "1250",
-        "name": "Portela Sintra (Estação Norte) - Praia Grande",
+        "name": "Portela de Sintra (Estação Norte) - Praia Grande",
         "color": "#C61D23"
     },
     {
@@ -381,7 +381,7 @@
     },
     {
         "id": "1252",
-        "name": "Portela Sintra (Estação Sul) | Circular via Ranholas",
+        "name": "Portela de Sintra (Estação Sul) | Circular via Ranholas",
         "color": "#3D85C6"
     },
     {
@@ -391,12 +391,12 @@
     },
     {
         "id": "1254",
-        "name": "Portela Sintra (Estação Norte) - Magoito (Praia)",
+        "name": "Portela de Sintra (Estação Norte) - Magoito (Praia)",
         "color": "#C61D23"
     },
     {
         "id": "1255",
-        "name": "Rebanque - Portela Sintra (Estação Norte)",
+        "name": "Rebanque - Portela de Sintra (Estação Norte)",
         "color": "#C61D23"
     },
     {
@@ -581,7 +581,7 @@
     },
     {
         "id": "1610",
-        "name": "Paço De Arcos (Estação Norte) - Talaíde (Campo Futebol)",
+        "name": "Paço de Arcos (Estação Norte) - Talaíde (Campo Futebol)",
         "color": "#C61D23"
     },
     {
@@ -601,7 +601,7 @@
     },
     {
         "id": "1614",
-        "name": "Carcavelos (Estação) - Portela Sintra (Estação Sul)",
+        "name": "Carcavelos (Estação) - Portela de Sintra (Estação Sul)",
         "color": "#C61D23"
     },
     {
@@ -631,12 +631,12 @@
     },
     {
         "id": "1623",
-        "name": "Cascais (Terminal) - Portela Sintra (Estação Sul)",
+        "name": "Cascais (Terminal) - Portela de Sintra (Estação Sul)",
         "color": "#C61D23"
     },
     {
         "id": "1624",
-        "name": "Cascais (Terminal) - Portela Sintra (Estação Norte) via Azóia e Almoçageme",
+        "name": "Cascais (Terminal) - Portela de Sintra (Estação Norte) via Azóia e Almoçageme",
         "color": "#C61D23"
     },
     {
@@ -646,7 +646,7 @@
     },
     {
         "id": "1626",
-        "name": "CascaiShopping (Terminal) - Portela Sintra (Estação Sul)",
+        "name": "CascaiShopping (Terminal) - Portela de Sintra (Estação Sul)",
         "color": "#C61D23"
     },
     {
@@ -661,12 +661,12 @@
     },
     {
         "id": "1629",
-        "name": "Estoril (Estação) - Portela Sintra (Estação Sul)",
+        "name": "Estoril (Estação) - Portela de Sintra (Estação Sul)",
         "color": "#C61D23"
     },
     {
         "id": "1630",
-        "name": "Estoril (Estação) - Portela Sintra (Estação Sul) via Monte Estoril",
+        "name": "Estoril (Estação) - Portela de Sintra (Estação Sul) via Monte Estoril",
         "color": "#C61D23"
     },
     {
@@ -676,7 +676,7 @@
     },
     {
         "id": "1632",
-        "name": "Carvalhal (Largo) - Portela Sintra (Estação Norte)",
+        "name": "Carvalhal (Largo) - Portela de Sintra (Estação Norte)",
         "color": "#C61D23"
     },
     {
@@ -856,12 +856,12 @@
     },
     {
         "id": "1740",
-        "name": "Marquês de Pombal (Metro) - Rio de Mouro (Estação Norte)",
+        "name": "Marquês Pombal (Metro) - Rio de Mouro (Estação Norte)",
         "color": "#C61D23"
     },
     {
         "id": "1741",
-        "name": "Marquês de Pombal (Metro) - Queluz de Baixo (Centro Comercial) via Algés",
+        "name": "Marquês Pombal (Metro) - Queluz de Baixo (Centro Comercial) via Algés",
         "color": "#C61D23"
     },
     {
